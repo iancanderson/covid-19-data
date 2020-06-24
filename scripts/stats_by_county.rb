@@ -18,7 +18,7 @@ end
 
 grouped = filtered_rows.group_by { |row| "#{row['state']}: #{row['county']}" }
 
-grouped.each do |county, rows|
+grouped.sort.each do |county, rows|
   recent_case_totals = rows.last(20).map { |row| row["cases"] }
   daily_case_deltas = recent_case_totals.each_cons(2).map { |a,b| b.to_i - a.to_i }
   daily_case_delta_3_day_averages = daily_case_deltas.each_cons(3).map { |a,b,c| ((a+b+c) / 3.0).round }
