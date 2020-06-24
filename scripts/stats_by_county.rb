@@ -3,6 +3,7 @@ require "csv"
 COUNTIES_TO_PARSE = {
   "Massachusetts" => ["Essex"],
   "New York" => ["Chautauqua", "Erie", "Madison"],
+  "Pennsylvania" => ["Allegheny", "Crawford", "Mercer"],
 }
 
 def select_county?(state:, county:)
