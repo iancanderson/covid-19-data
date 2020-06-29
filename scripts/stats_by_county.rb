@@ -29,3 +29,4 @@ grouped.sort.each do |county, rows|
   puts "Past week new cases 3 day average: #{daily_case_delta_3_day_averages.last(7).join(", ")}"
   puts "=" * 80
 end
+
