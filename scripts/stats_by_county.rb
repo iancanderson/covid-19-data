@@ -17,12 +17,14 @@ end
 
 COUNTIES = [
   County.new("Massachusetts", "Essex", population: 789034),
+  County.new("Massachusetts", "Middlesex", population: 1611699),
   County.new("New York", "Chautauqua", population: 126903),
   County.new("New York", "Erie", population: 918702),
   County.new("New York", "Madison", population: 70941),
   County.new("Pennsylvania", "Allegheny", population: 1216045),
   County.new("Pennsylvania", "Crawford", population: 84629),
   County.new("Pennsylvania", "Mercer", population: 109424),
+  County.new("Virginia", "Loudoun", population: 413539),
 ]
 
 def select_county?(state:, county:)
