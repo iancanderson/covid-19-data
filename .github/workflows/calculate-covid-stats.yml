@@ -23,7 +23,7 @@ jobs:
       with:
         ruby-version: '2.6' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
     - run: |
-      ruby scripts/stats_by_county.rb
-      git add stats_by_county.md
-      git commit -m "Update stats_by_county.md"
-      git push
+        ruby scripts/stats_by_county.rb
+        git add stats_by_county.md
+        git commit -m "Update stats_by_county.md"
+        git push
