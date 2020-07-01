@@ -26,6 +26,7 @@ jobs:
         ruby scripts/stats_by_county.rb
         git config --global user.email "ian@iancanderson.com"
         git config --global user.name "Ian C. Anderson"
+        git pull
         git add stats_by_county.md
         git commit -m "Update stats_by_county.md"
         git push origin HEAD:${{ github.head_ref }}
