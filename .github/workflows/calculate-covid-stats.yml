@@ -28,4 +28,4 @@ jobs:
         git config --global user.name "Ian C. Anderson"
         git add stats_by_county.md
         git commit -m "Update stats_by_county.md"
-        git push origin HEAD:${{ github.ref }}
+        git push origin HEAD:${{ github.head_ref }}
