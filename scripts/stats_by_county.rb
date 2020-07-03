@@ -78,8 +78,8 @@ class StatsByCounty
     end
   end
 
-  def recent_case_deltas(county:)
-    recent_case_totals(county: county, days: days_to_calculate + 1).each_cons(2).map do |a,b|
+  def recent_case_deltas(county:, days: days_to_calculate)
+    recent_case_totals(county: county, days: days + 1).each_cons(2).map do |a,b|
       if a && b
         b.to_i - a.to_i
       end
@@ -88,6 +88,24 @@ class StatsByCounty
 
   def recent_case_deltas_per_population(county:)
     recent_case_deltas(county: county).map do |delta|
+      if delta
+        per_population = delta / (county.population.to_f / 100_000)
+        per_population.round(1)
+      end
+    end
+  end
+
+  def recent_case_deltas_seven_day_average(county:)
+    deltas = recent_case_deltas(county: county, days: days_to_calculate + 6)
+    deltas.each_cons(7).map  do |deltas|
+      unless deltas.any?(&:nil?)
+        (deltas.sum / 7.0).round
+      end
+    end
+  end
+
+  def recent_case_deltas_seven_day_average_per_population(county:)
+    recent_case_deltas_seven_day_average(county: county).map do |delta|
       if delta
         per_population = delta / (county.population.to_f / 100_000)
         per_population.round(1)
@@ -136,21 +154,6 @@ end
 stats_by_county = StatsByCounty.new(filtered_rows)
 
 File.open("stats_by_county.md", "w") do |file|
-  file.puts "## Total cases by day"
-  file.puts
-  print_table_header(file, stats_by_county)
-  print_table_data(file) do |county|
-    stats_by_county.recent_case_totals(county: county)
-  end
-
-  file.puts "## Total cases by day (per 100,000 population)"
-  file.puts
-  print_table_header(file, stats_by_county)
-  print_table_data(file) do |county|
-    stats_by_county.recent_case_totals_per_population(county: county)
-  end
-
-  file.puts
   file.puts "## New cases by day"
   file.puts
   print_table_header(file, stats_by_county)
@@ -164,5 +167,37 @@ File.open("stats_by_county.md", "w") do |file|
   print_table_header(file, stats_by_county)
   print_table_data(file) do |county|
     stats_by_county.recent_case_deltas_per_population(county: county)
+  end
+
+  file.puts
+  file.puts "## New cases by day (7 day average)"
+  file.puts
+  print_table_header(file, stats_by_county)
+  print_table_data(file) do |county|
+    stats_by_county.recent_case_deltas_seven_day_average(county: county)
+  end
+
+  file.puts
+  file.puts "## New cases by day (7 day average per 100,000 population)"
+  file.puts
+  print_table_header(file, stats_by_county)
+  print_table_data(file) do |county|
+    stats_by_county.recent_case_deltas_seven_day_average_per_population(county: county)
+  end
+
+  file.puts
+  file.puts "## Total cases by day"
+  file.puts
+  print_table_header(file, stats_by_county)
+  print_table_data(file) do |county|
+    stats_by_county.recent_case_totals(county: county)
+  end
+
+  file.puts
+  file.puts "## Total cases by day (per 100,000 population)"
+  file.puts
+  print_table_header(file, stats_by_county)
+  print_table_data(file) do |county|
+    stats_by_county.recent_case_totals_per_population(county: county)
   end
 end
