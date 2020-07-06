@@ -21,6 +21,7 @@ COUNTIES = [
   County.new("New York", "Chautauqua", population: 126903),
   County.new("New York", "Erie", population: 918702),
   County.new("New York", "Madison", population: 70941),
+  County.new("New York", "Oswego", population: 122109),
   County.new("Pennsylvania", "Allegheny", population: 1216045),
   County.new("Pennsylvania", "Crawford", population: 84629),
   County.new("Pennsylvania", "Mercer", population: 109424),
