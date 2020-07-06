@@ -7,6 +7,7 @@
 | New York: Chautauqua | 4 | 0 | 0 | 2 | 2 |  |  |
 | New York: Erie | 43 | 45 | 33 | 57 | 35 |  |  |
 | New York: Madison | 4 | 0 | 2 | 1 | 3 |  |  |
+| New York: Oswego | 1 | 4 | 5 | 0 | 0 |  |  |
 | Pennsylvania: Allegheny | 109 | 110 | 233 | 177 | 150 |  |  |
 | Pennsylvania: Crawford | 0 | 4 | 2 | 3 | 0 |  |  |
 | Pennsylvania: Mercer | 4 | 0 | 2 | 1 | 7 |  |  |
@@ -21,6 +22,7 @@
 | New York: Chautauqua | 3.2 | 0.0 | 0.0 | 1.6 | 1.6 |  |  |
 | New York: Erie | 4.7 | 4.9 | 3.6 | 6.2 | 3.8 |  |  |
 | New York: Madison | 5.6 | 0.0 | 2.8 | 1.4 | 4.2 |  |  |
+| New York: Oswego | 0.8 | 3.3 | 4.1 | 0.0 | 0.0 |  |  |
 | Pennsylvania: Allegheny | 9.0 | 9.0 | 19.2 | 14.6 | 12.3 |  |  |
 | Pennsylvania: Crawford | 0.0 | 4.7 | 2.4 | 3.5 | 0.0 |  |  |
 | Pennsylvania: Mercer | 3.7 | 0.0 | 1.8 | 0.9 | 6.4 |  |  |
@@ -35,6 +37,7 @@
 | New York: Chautauqua | 2 | 1 | 1 | 1 | 1 |  |  |
 | New York: Erie | 31 | 33 | 33 | 35 | 37 |  |  |
 | New York: Madison | 1 | 1 | 1 | 1 | 2 |  |  |
+| New York: Oswego | 3 | 2 | 2 | 2 | 2 |  |  |
 | Pennsylvania: Allegheny | 74 | 84 | 112 | 128 | 137 |  |  |
 | Pennsylvania: Crawford | 1 | 1 | 1 | 2 | 1 |  |  |
 | Pennsylvania: Mercer | 3 | 3 | 2 | 2 | 3 |  |  |
@@ -49,6 +52,7 @@
 | New York: Chautauqua | 1.6 | 0.8 | 0.8 | 0.8 | 0.8 |  |  |
 | New York: Erie | 3.4 | 3.6 | 3.6 | 3.8 | 4.0 |  |  |
 | New York: Madison | 1.4 | 1.4 | 1.4 | 1.4 | 2.8 |  |  |
+| New York: Oswego | 2.5 | 1.6 | 1.6 | 1.6 | 1.6 |  |  |
 | Pennsylvania: Allegheny | 6.1 | 6.9 | 9.2 | 10.5 | 11.3 |  |  |
 | Pennsylvania: Crawford | 1.2 | 1.2 | 1.2 | 2.4 | 1.2 |  |  |
 | Pennsylvania: Mercer | 2.7 | 2.7 | 1.8 | 1.8 | 2.7 |  |  |
@@ -63,6 +67,7 @@
 | New York: Chautauqua | 127 | 127 | 127 | 129 | 131 |  |  |
 | New York: Erie | 7292 | 7337 | 7370 | 7427 | 7462 |  |  |
 | New York: Madison | 357 | 357 | 359 | 360 | 363 |  |  |
+| New York: Oswego | 197 | 201 | 206 | 206 | 206 |  |  |
 | Pennsylvania: Allegheny | 2760 | 2870 | 3103 | 3280 | 3430 |  |  |
 | Pennsylvania: Crawford | 53 | 57 | 59 | 62 | 62 |  |  |
 | Pennsylvania: Mercer | 140 | 140 | 142 | 143 | 150 |  |  |
@@ -77,6 +82,7 @@
 | New York: Chautauqua | 100.1 | 100.1 | 100.1 | 101.7 | 103.2 |  |  |
 | New York: Erie | 793.7 | 798.6 | 802.2 | 808.4 | 812.2 |  |  |
 | New York: Madison | 503.2 | 503.2 | 506.1 | 507.5 | 511.7 |  |  |
+| New York: Oswego | 161.3 | 164.6 | 168.7 | 168.7 | 168.7 |  |  |
 | Pennsylvania: Allegheny | 227.0 | 236.0 | 255.2 | 269.7 | 282.1 |  |  |
 | Pennsylvania: Crawford | 62.6 | 67.4 | 69.7 | 73.3 | 73.3 |  |  |
 | Pennsylvania: Mercer | 127.9 | 127.9 | 129.8 | 130.7 | 137.1 |  |  |
