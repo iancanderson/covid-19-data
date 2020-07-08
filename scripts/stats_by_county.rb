@@ -28,6 +28,33 @@ COUNTIES = [
   County.new("Virginia", "Loudoun", population: 413539),
 ]
 
+class CountyData
+  def initialize(attributes, live:)
+    @attributes = attributes
+    @live = live
+  end
+
+  def county
+    @attributes["county"]
+  end
+
+  def state
+    @attributes["state"]
+  end
+
+  def cases
+    @attributes["cases"]
+  end
+
+  def date
+    @attributes["date"]
+  end
+
+  def live?
+    @live
+  end
+end
+
 def select_county?(state:, county:)
   county = County.new(state, county, population: nil)
   COUNTIES.include?(county)
@@ -36,20 +63,15 @@ end
 rows = CSV.open("us-counties.csv", headers: true)
 filtered_rows = rows.select do |row|
   select_county?(state: row["state"], county: row["county"])
+end.map do |row|
+  CountyData.new(row, live: false)
 end
 
-grouped = filtered_rows.group_by { |row| "#{row['state']}: #{row['county']}" }
-
-grouped.sort.each do |county, rows|
-  recent_case_totals = rows.last(20).map { |row| row["cases"] }
-  daily_case_deltas = recent_case_totals.each_cons(2).map { |a,b| b.to_i - a.to_i }
-  daily_case_delta_3_day_averages = daily_case_deltas.each_cons(3).map { |a,b,c| ((a+b+c) / 3.0).round }
-  puts "=" * 80
-  puts "#{county} County"
-  puts "Past week total cases: #{recent_case_totals.last(7).join(', ')}"
-  puts "Past week new cases: #{daily_case_deltas.last(7).join(', ')}"
-  puts "Past week new cases 3 day average: #{daily_case_delta_3_day_averages.last(7).join(", ")}"
-  puts "=" * 80
+live_rows = CSV.open("live/us-counties.csv", headers: true)
+filtered_rows += live_rows.select do |row|
+  select_county?(state: row["state"], county: row["county"])
+end.map do |row|
+  CountyData.new(row, live: true)
 end
 
 class StatsByCounty
@@ -120,11 +142,11 @@ class StatsByCounty
 
   def case_totals(county:, date:)
     row = filtered_rows.detect do |row|
-      row["state"] == county.state &&
-        row["county"] == county.name &&
-        row["date"] == date.to_s
+      row.state == county.state &&
+        row.county == county.name &&
+        row.date == date.to_s
     end
-    row && row["cases"]
+    row && row.cases
   end
 end
 
@@ -155,6 +177,8 @@ end
 stats_by_county = StatsByCounty.new(filtered_rows)
 
 File.open("stats_by_county.md", "w") do |file|
+  file.puts "_The current day's numbers may not be updated yet. Take the last columns with a grain of salt._"
+
   file.puts "## New cases by day"
   file.puts
   print_table_header(file, stats_by_county)
