@@ -29,29 +29,35 @@ COUNTIES = [
 ]
 
 class CountyData
+  attr_reader :county, :state, :cases, :date
+
   def initialize(attributes, live:)
-    @attributes = attributes
+    @county = attributes["county"]
+    @state = attributes["state"]
+    @cases = attributes["cases"]
+    @date = attributes["date"]
     @live = live
-  end
-
-  def county
-    @attributes["county"]
-  end
-
-  def state
-    @attributes["state"]
-  end
-
-  def cases
-    @attributes["cases"]
-  end
-
-  def date
-    @attributes["date"]
   end
 
   def live?
     @live
+  end
+
+  def parsed_date
+    Date.parse(date)
+  end
+
+  def same_cases_as_previous?(other)
+    is_previous = (parsed_date - other.parsed_date) == 1
+    return false unless is_previous
+
+    state == other.state &&
+      county == other.county &&
+      cases == other.cases
+  end
+
+  def to_s
+    [state, county, date, cases].join(", ")
   end
 end
 
@@ -61,17 +67,25 @@ def select_county?(state:, county:)
 end
 
 rows = CSV.open("us-counties.csv", headers: true)
-filtered_rows = rows.select do |row|
+settled_rows = rows.select do |row|
   select_county?(state: row["state"], county: row["county"])
 end.map do |row|
   CountyData.new(row, live: false)
 end
 
 live_rows = CSV.open("live/us-counties.csv", headers: true)
-filtered_rows += live_rows.select do |row|
+filtered_rows = settled_rows + live_rows.select do |row|
   select_county?(state: row["state"], county: row["county"])
 end.map do |row|
   CountyData.new(row, live: true)
+end.reject do |county_datum|
+  settled_rows.any? do |settled_county_datum|
+    any = county_datum.same_cases_as_previous?(settled_county_datum)
+    if any
+      puts "#{county_datum} is the same as settled #{settled_county_datum}"
+    end
+    any
+  end
 end
 
 class StatsByCounty
