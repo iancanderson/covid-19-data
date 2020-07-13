@@ -3,8 +3,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2020-07-07 | 2020-07-08 | 2020-07-09 | 2020-07-10 | 2020-07-11 | 2020-07-12 | 2020-07-13 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 35 | 24 | 37 | 35 | 38 | 17 |  |
-| Massachusetts: Middlesex | 50 | 57 | 48 | 29 | 59 | 47 |  |
+| Massachusetts: Essex | 35 | 24 | 37 | 35 | 38 | 17 | 16 |
+| Massachusetts: Middlesex | 50 | 57 | 48 | 29 | 59 | 47 | 53 |
 | New York: Chautauqua | 1 | 14 | 3 | 3 | 15 | 0 | 1 |
 | New York: Erie | 44 | 52 | 28 | 36 | 51 | 31 | 24 |
 | New York: Madison | 3 | 1 | 0 | 3 | 3 | 0 | 1 |
@@ -18,8 +18,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2020-07-07 | 2020-07-08 | 2020-07-09 | 2020-07-10 | 2020-07-11 | 2020-07-12 | 2020-07-13 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 4.4 | 3.0 | 4.7 | 4.4 | 4.8 | 2.2 |  |
-| Massachusetts: Middlesex | 3.1 | 3.5 | 3.0 | 1.8 | 3.7 | 2.9 |  |
+| Massachusetts: Essex | 4.4 | 3.0 | 4.7 | 4.4 | 4.8 | 2.2 | 2.0 |
+| Massachusetts: Middlesex | 3.1 | 3.5 | 3.0 | 1.8 | 3.7 | 2.9 | 3.3 |
 | New York: Chautauqua | 0.8 | 11.0 | 2.4 | 2.4 | 11.8 | 0.0 | 0.8 |
 | New York: Erie | 4.8 | 5.7 | 3.0 | 3.9 | 5.6 | 3.4 | 2.6 |
 | New York: Madison | 4.2 | 1.4 | 0.0 | 4.2 | 4.2 | 0.0 | 1.4 |
@@ -33,8 +33,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2020-07-07 | 2020-07-08 | 2020-07-09 | 2020-07-10 | 2020-07-11 | 2020-07-12 | 2020-07-13 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 33 | 31 | 29 | 29 | 31 | 31 |  |
-| Massachusetts: Middlesex | 40 | 43 | 44 | 42 | 46 | 47 |  |
+| Massachusetts: Essex | 33 | 31 | 29 | 29 | 31 | 31 | 29 |
+| Massachusetts: Middlesex | 40 | 43 | 44 | 42 | 46 | 47 | 49 |
 | New York: Chautauqua | 1 | 3 | 4 | 4 | 6 | 5 | 5 |
 | New York: Erie | 36 | 37 | 36 | 33 | 36 | 38 | 38 |
 | New York: Madison | 1 | 2 | 1 | 2 | 2 | 2 | 2 |
@@ -48,8 +48,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2020-07-07 | 2020-07-08 | 2020-07-09 | 2020-07-10 | 2020-07-11 | 2020-07-12 | 2020-07-13 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 4.2 | 3.9 | 3.7 | 3.7 | 3.9 | 3.9 |  |
-| Massachusetts: Middlesex | 2.5 | 2.7 | 2.7 | 2.6 | 2.9 | 2.9 |  |
+| Massachusetts: Essex | 4.2 | 3.9 | 3.7 | 3.7 | 3.9 | 3.9 | 3.7 |
+| Massachusetts: Middlesex | 2.5 | 2.7 | 2.7 | 2.6 | 2.9 | 2.9 | 3.0 |
 | New York: Chautauqua | 0.8 | 2.4 | 3.2 | 3.2 | 4.7 | 3.9 | 3.9 |
 | New York: Erie | 3.9 | 4.0 | 3.9 | 3.6 | 3.9 | 4.1 | 4.1 |
 | New York: Madison | 1.4 | 2.8 | 1.4 | 2.8 | 2.8 | 2.8 | 2.8 |
@@ -63,8 +63,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2020-07-07 | 2020-07-08 | 2020-07-09 | 2020-07-10 | 2020-07-11 | 2020-07-12 | 2020-07-13 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 16318 | 16342 | 16379 | 16414 | 16452 | 16469 |  |
-| Massachusetts: Middlesex | 24243 | 24300 | 24348 | 24377 | 24436 | 24483 |  |
+| Massachusetts: Essex | 16318 | 16342 | 16379 | 16414 | 16452 | 16469 | 16485 |
+| Massachusetts: Middlesex | 24243 | 24300 | 24348 | 24377 | 24436 | 24483 | 24536 |
 | New York: Chautauqua | 135 | 149 | 152 | 155 | 170 | 170 | 171 |
 | New York: Erie | 7544 | 7596 | 7624 | 7660 | 7711 | 7742 | 7766 |
 | New York: Madison | 367 | 368 | 368 | 371 | 374 | 374 | 375 |
@@ -78,8 +78,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2020-07-07 | 2020-07-08 | 2020-07-09 | 2020-07-10 | 2020-07-11 | 2020-07-12 | 2020-07-13 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 2068.1 | 2071.1 | 2075.8 | 2080.3 | 2085.1 | 2087.2 |  |
-| Massachusetts: Middlesex | 1504.2 | 1507.7 | 1510.7 | 1512.5 | 1516.2 | 1519.1 |  |
+| Massachusetts: Essex | 2068.1 | 2071.1 | 2075.8 | 2080.3 | 2085.1 | 2087.2 | 2089.3 |
+| Massachusetts: Middlesex | 1504.2 | 1507.7 | 1510.7 | 1512.5 | 1516.2 | 1519.1 | 1522.4 |
 | New York: Chautauqua | 106.4 | 117.4 | 119.8 | 122.1 | 134.0 | 134.0 | 134.7 |
 | New York: Erie | 821.2 | 826.8 | 829.9 | 833.8 | 839.3 | 842.7 | 845.3 |
 | New York: Madison | 517.3 | 518.7 | 518.7 | 523.0 | 527.2 | 527.2 | 528.6 |
