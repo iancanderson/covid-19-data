@@ -6,8 +6,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | Massachusetts: Essex | 45 | 34 | 32 | 36 | 78 | 23 |  |
 | Massachusetts: Middlesex | 64 | 52 | 33 | 53 | 71 | 77 |  |
 | New York: Chautauqua | 9 | 6 | 5 | 1 | 2 | 0 |  |
-| New York: Erie | 67 | 58 | 36 | 55 | 34 | 19 |  |
-| New York: Madison | 1 | 0 | 1 | 2 | 3 | 1 |  |
+| New York: Erie | 67 | 58 | 36 | 55 | 34 | 19 | 11 |
+| New York: Madison | 1 | 0 | 1 | 2 | 3 | 1 | 1 |
 | New York: Oswego | 3 | 1 | 1 | 0 | 2 | 0 |  |
 | Pennsylvania: Allegheny | 331 | 246 | 140 | 240 | 135 | 138 | 172 |
 | Pennsylvania: Crawford | 2 | 21 | 3 | 1 | 2 | 0 | 2 |
@@ -21,8 +21,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | Massachusetts: Essex | 5.7 | 4.3 | 4.1 | 4.6 | 9.9 | 2.9 |  |
 | Massachusetts: Middlesex | 4.0 | 3.2 | 2.0 | 3.3 | 4.4 | 4.8 |  |
 | New York: Chautauqua | 7.1 | 4.7 | 3.9 | 0.8 | 1.6 | 0.0 |  |
-| New York: Erie | 7.3 | 6.3 | 3.9 | 6.0 | 3.7 | 2.1 |  |
-| New York: Madison | 1.4 | 0.0 | 1.4 | 2.8 | 4.2 | 1.4 |  |
+| New York: Erie | 7.3 | 6.3 | 3.9 | 6.0 | 3.7 | 2.1 | 1.2 |
+| New York: Madison | 1.4 | 0.0 | 1.4 | 2.8 | 4.2 | 1.4 | 1.4 |
 | New York: Oswego | 2.5 | 0.8 | 0.8 | 0.0 | 1.6 | 0.0 |  |
 | Pennsylvania: Allegheny | 27.2 | 20.2 | 11.5 | 19.7 | 11.1 | 11.3 | 14.1 |
 | Pennsylvania: Crawford | 2.4 | 24.8 | 3.5 | 1.2 | 2.4 | 0.0 | 2.4 |
@@ -36,8 +36,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | Massachusetts: Essex | 30 | 32 | 31 | 31 | 37 | 38 |  |
 | Massachusetts: Middlesex | 51 | 50 | 48 | 52 | 53 | 58 |  |
 | New York: Chautauqua | 6 | 5 | 6 | 5 | 3 | 3 |  |
-| New York: Erie | 41 | 42 | 43 | 46 | 44 | 42 |  |
-| New York: Madison | 1 | 1 | 1 | 1 | 1 | 1 |  |
+| New York: Erie | 41 | 42 | 43 | 46 | 44 | 42 | 40 |
+| New York: Madison | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | New York: Oswego | 3 | 2 | 2 | 2 | 1 | 1 |  |
 | Pennsylvania: Allegheny | 198 | 200 | 198 | 206 | 195 | 186 | 200 |
 | Pennsylvania: Crawford | 1 | 4 | 4 | 4 | 4 | 4 | 4 |
@@ -51,8 +51,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | Massachusetts: Essex | 3.8 | 4.1 | 3.9 | 3.9 | 4.7 | 4.8 |  |
 | Massachusetts: Middlesex | 3.2 | 3.1 | 3.0 | 3.2 | 3.3 | 3.6 |  |
 | New York: Chautauqua | 4.7 | 3.9 | 4.7 | 3.9 | 2.4 | 2.4 |  |
-| New York: Erie | 4.5 | 4.6 | 4.7 | 5.0 | 4.8 | 4.6 |  |
-| New York: Madison | 1.4 | 1.4 | 1.4 | 1.4 | 1.4 | 1.4 |  |
+| New York: Erie | 4.5 | 4.6 | 4.7 | 5.0 | 4.8 | 4.6 | 4.4 |
+| New York: Madison | 1.4 | 1.4 | 1.4 | 1.4 | 1.4 | 1.4 | 1.4 |
 | New York: Oswego | 2.5 | 1.6 | 1.6 | 1.6 | 0.8 | 0.8 |  |
 | Pennsylvania: Allegheny | 16.3 | 16.4 | 16.3 | 16.9 | 16.0 | 15.3 | 16.4 |
 | Pennsylvania: Crawford | 1.2 | 4.7 | 4.7 | 4.7 | 4.7 | 4.7 | 4.7 |
@@ -66,8 +66,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | Massachusetts: Essex | 16530 | 16564 | 16596 | 16632 | 16710 | 16733 |  |
 | Massachusetts: Middlesex | 24600 | 24652 | 24685 | 24738 | 24809 | 24886 |  |
 | New York: Chautauqua | 180 | 186 | 191 | 192 | 194 | 194 |  |
-| New York: Erie | 7833 | 7891 | 7927 | 7982 | 8016 | 8035 |  |
-| New York: Madison | 376 | 376 | 377 | 379 | 382 | 383 |  |
+| New York: Erie | 7833 | 7891 | 7927 | 7982 | 8016 | 8035 | 8046 |
+| New York: Madison | 376 | 376 | 377 | 379 | 382 | 383 | 384 |
 | New York: Oswego | 225 | 226 | 227 | 227 | 229 | 229 |  |
 | Pennsylvania: Allegheny | 5364 | 5610 | 5750 | 5990 | 6125 | 6263 | 6435 |
 | Pennsylvania: Crawford | 80 | 101 | 104 | 105 | 107 | 107 | 109 |
@@ -81,8 +81,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | Massachusetts: Essex | 2095.0 | 2099.3 | 2103.3 | 2107.9 | 2117.8 | 2120.7 |  |
 | Massachusetts: Middlesex | 1526.3 | 1529.6 | 1531.6 | 1534.9 | 1539.3 | 1544.1 |  |
 | New York: Chautauqua | 141.8 | 146.6 | 150.5 | 151.3 | 152.9 | 152.9 |  |
-| New York: Erie | 852.6 | 858.9 | 862.8 | 868.8 | 872.5 | 874.6 |  |
-| New York: Madison | 530.0 | 530.0 | 531.4 | 534.2 | 538.5 | 539.9 |  |
+| New York: Erie | 852.6 | 858.9 | 862.8 | 868.8 | 872.5 | 874.6 | 875.8 |
+| New York: Madison | 530.0 | 530.0 | 531.4 | 534.2 | 538.5 | 539.9 | 541.3 |
 | New York: Oswego | 184.3 | 185.1 | 185.9 | 185.9 | 187.5 | 187.5 |  |
 | Pennsylvania: Allegheny | 441.1 | 461.3 | 472.8 | 492.6 | 503.7 | 515.0 | 529.2 |
 | Pennsylvania: Crawford | 94.5 | 119.3 | 122.9 | 124.1 | 126.4 | 126.4 | 128.8 |
