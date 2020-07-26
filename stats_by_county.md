@@ -9,7 +9,7 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 11 | 60 | 29 | 52 | 47 | 48 |  |
 | New York: Madison | 1 | 3 | 1 | 0 | 2 | 0 |  |
 | New York: Oswego | 0 | 2 | 1 | 2 | 0 | 2 |  |
-| Pennsylvania: Allegheny | 172 | 139 | 96 | 147 | 198 | 146 |  |
+| Pennsylvania: Allegheny | 172 | 139 | 96 | 147 | 198 | 146 | 87 |
 | Pennsylvania: Crawford | 2 | 3 | 2 | 0 | 3 | 1 |  |
 | Pennsylvania: Mercer | 14 | 14 | 17 | 6 | 7 | 4 |  |
 | Virginia: Loudoun | 23 | 25 | 43 | 20 | 11 | 27 | 24 |
@@ -24,7 +24,7 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 1.2 | 6.5 | 3.2 | 5.7 | 5.1 | 5.2 |  |
 | New York: Madison | 1.4 | 4.2 | 1.4 | 0.0 | 2.8 | 0.0 |  |
 | New York: Oswego | 0.0 | 1.6 | 0.8 | 1.6 | 0.0 | 1.6 |  |
-| Pennsylvania: Allegheny | 14.1 | 11.4 | 7.9 | 12.1 | 16.3 | 12.0 |  |
+| Pennsylvania: Allegheny | 14.1 | 11.4 | 7.9 | 12.1 | 16.3 | 12.0 | 7.2 |
 | Pennsylvania: Crawford | 2.4 | 3.5 | 2.4 | 0.0 | 3.5 | 1.2 |  |
 | Pennsylvania: Mercer | 12.8 | 12.8 | 15.5 | 5.5 | 6.4 | 3.7 |  |
 | Virginia: Loudoun | 5.6 | 6.0 | 10.4 | 4.8 | 2.7 | 6.5 | 5.8 |
@@ -39,7 +39,7 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 40 | 39 | 35 | 37 | 36 | 38 |  |
 | New York: Madison | 1 | 2 | 2 | 2 | 2 | 1 |  |
 | New York: Oswego | 1 | 1 | 1 | 1 | 1 | 1 |  |
-| Pennsylvania: Allegheny | 200 | 173 | 151 | 152 | 146 | 148 |  |
+| Pennsylvania: Allegheny | 200 | 173 | 151 | 152 | 146 | 148 | 141 |
 | Pennsylvania: Crawford | 4 | 5 | 2 | 1 | 2 | 2 |  |
 | Pennsylvania: Mercer | 10 | 10 | 10 | 11 | 10 | 10 |  |
 | Virginia: Loudoun | 34 | 34 | 31 | 29 | 28 | 29 | 25 |
@@ -54,7 +54,7 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 4.4 | 4.2 | 3.8 | 4.0 | 3.9 | 4.1 |  |
 | New York: Madison | 1.4 | 2.8 | 2.8 | 2.8 | 2.8 | 1.4 |  |
 | New York: Oswego | 0.8 | 0.8 | 0.8 | 0.8 | 0.8 | 0.8 |  |
-| Pennsylvania: Allegheny | 16.4 | 14.2 | 12.4 | 12.5 | 12.0 | 12.2 |  |
+| Pennsylvania: Allegheny | 16.4 | 14.2 | 12.4 | 12.5 | 12.0 | 12.2 | 11.6 |
 | Pennsylvania: Crawford | 4.7 | 5.9 | 2.4 | 1.2 | 2.4 | 2.4 |  |
 | Pennsylvania: Mercer | 9.1 | 9.1 | 9.1 | 10.1 | 9.1 | 9.1 |  |
 | Virginia: Loudoun | 8.2 | 8.2 | 7.5 | 7.0 | 6.8 | 7.0 | 6.0 |
@@ -69,7 +69,7 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 8046 | 8106 | 8135 | 8187 | 8234 | 8282 |  |
 | New York: Madison | 384 | 387 | 388 | 388 | 390 | 390 |  |
 | New York: Oswego | 229 | 231 | 232 | 234 | 234 | 236 |  |
-| Pennsylvania: Allegheny | 6435 | 6574 | 6670 | 6817 | 7015 | 7161 |  |
+| Pennsylvania: Allegheny | 6435 | 6574 | 6670 | 6817 | 7015 | 7161 | 7248 |
 | Pennsylvania: Crawford | 109 | 112 | 114 | 114 | 117 | 118 |  |
 | Pennsylvania: Mercer | 245 | 259 | 276 | 282 | 289 | 293 |  |
 | Virginia: Loudoun | 4670 | 4695 | 4738 | 4758 | 4769 | 4796 | 4820 |
@@ -84,7 +84,7 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 875.8 | 882.3 | 885.5 | 891.1 | 896.3 | 901.5 |  |
 | New York: Madison | 541.3 | 545.5 | 546.9 | 546.9 | 549.8 | 549.8 |  |
 | New York: Oswego | 187.5 | 189.2 | 190.0 | 191.6 | 191.6 | 193.3 |  |
-| Pennsylvania: Allegheny | 529.2 | 540.6 | 548.5 | 560.6 | 576.9 | 588.9 |  |
+| Pennsylvania: Allegheny | 529.2 | 540.6 | 548.5 | 560.6 | 576.9 | 588.9 | 596.0 |
 | Pennsylvania: Crawford | 128.8 | 132.3 | 134.7 | 134.7 | 138.3 | 139.4 |  |
 | Pennsylvania: Mercer | 223.9 | 236.7 | 252.2 | 257.7 | 264.1 | 267.8 |  |
 | Virginia: Loudoun | 1129.3 | 1135.3 | 1145.7 | 1150.6 | 1153.2 | 1159.7 | 1165.5 |
