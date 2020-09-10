@@ -9,10 +9,10 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 70 | 56 | 54 | 54 | 26 | 48 |  |
 | New York: Madison | 7 | 0 | 0 | 1 | 0 | 0 |  |
 | New York: Oswego | 3 | 11 | 0 | 4 | 2 | 0 |  |
-| Pennsylvania: Allegheny | 92 | 68 | 62 | 39 | 37 | 68 |  |
-| Pennsylvania: Crawford | 2 | 0 | 13 | 1 | 1 | 0 |  |
-| Pennsylvania: Mercer | 5 | 9 | 15 | 11 | 7 | 5 |  |
-| Virginia: Loudoun | 69 | 20 | 32 | 25 | 40 | 10 |  |
+| Pennsylvania: Allegheny | 92 | 68 | 62 | 39 | 37 | 68 | 54 |
+| Pennsylvania: Crawford | 2 | 0 | 13 | 1 | 1 | 0 | 4 |
+| Pennsylvania: Mercer | 5 | 9 | 15 | 11 | 7 | 5 | 5 |
+| Virginia: Loudoun | 69 | 20 | 32 | 25 | 40 | 10 | 54 |
 
 ## New cases by day (per 100,000 population)
 
@@ -24,10 +24,10 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 7.6 | 6.1 | 5.9 | 5.9 | 2.8 | 5.2 |  |
 | New York: Madison | 9.9 | 0.0 | 0.0 | 1.4 | 0.0 | 0.0 |  |
 | New York: Oswego | 2.5 | 9.0 | 0.0 | 3.3 | 1.6 | 0.0 |  |
-| Pennsylvania: Allegheny | 7.6 | 5.6 | 5.1 | 3.2 | 3.0 | 5.6 |  |
-| Pennsylvania: Crawford | 2.4 | 0.0 | 15.4 | 1.2 | 1.2 | 0.0 |  |
-| Pennsylvania: Mercer | 4.6 | 8.2 | 13.7 | 10.1 | 6.4 | 4.6 |  |
-| Virginia: Loudoun | 16.7 | 4.8 | 7.7 | 6.0 | 9.7 | 2.4 |  |
+| Pennsylvania: Allegheny | 7.6 | 5.6 | 5.1 | 3.2 | 3.0 | 5.6 | 4.4 |
+| Pennsylvania: Crawford | 2.4 | 0.0 | 15.4 | 1.2 | 1.2 | 0.0 | 4.7 |
+| Pennsylvania: Mercer | 4.6 | 8.2 | 13.7 | 10.1 | 6.4 | 4.6 | 4.6 |
+| Virginia: Loudoun | 16.7 | 4.8 | 7.7 | 6.0 | 9.7 | 2.4 | 13.1 |
 
 ## New cases by day (7 day average)
 
@@ -39,10 +39,10 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 63 | 67 | 66 | 64 | 57 | 54 |  |
 | New York: Madison | 3 | 2 | 2 | 2 | 2 | 2 |  |
 | New York: Oswego | 4 | 5 | 4 | 4 | 4 | 3 |  |
-| Pennsylvania: Allegheny | 73 | 71 | 66 | 66 | 67 | 67 |  |
-| Pennsylvania: Crawford | 3 | 2 | 3 | 3 | 3 | 3 |  |
-| Pennsylvania: Mercer | 3 | 4 | 6 | 8 | 8 | 8 |  |
-| Virginia: Loudoun | 38 | 35 | 36 | 35 | 36 | 31 |  |
+| Pennsylvania: Allegheny | 73 | 71 | 66 | 66 | 67 | 67 | 60 |
+| Pennsylvania: Crawford | 3 | 2 | 3 | 3 | 3 | 3 | 3 |
+| Pennsylvania: Mercer | 3 | 4 | 6 | 8 | 8 | 8 | 8 |
+| Virginia: Loudoun | 38 | 35 | 36 | 35 | 36 | 31 | 36 |
 
 ## New cases by day (7 day average per 100,000 population)
 
@@ -54,10 +54,10 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 6.9 | 7.3 | 7.2 | 7.0 | 6.2 | 5.9 |  |
 | New York: Madison | 4.2 | 2.8 | 2.8 | 2.8 | 2.8 | 2.8 |  |
 | New York: Oswego | 3.3 | 4.1 | 3.3 | 3.3 | 3.3 | 2.5 |  |
-| Pennsylvania: Allegheny | 6.0 | 5.8 | 5.4 | 5.4 | 5.5 | 5.5 |  |
-| Pennsylvania: Crawford | 3.5 | 2.4 | 3.5 | 3.5 | 3.5 | 3.5 |  |
-| Pennsylvania: Mercer | 2.7 | 3.7 | 5.5 | 7.3 | 7.3 | 7.3 |  |
-| Virginia: Loudoun | 9.2 | 8.5 | 8.7 | 8.5 | 8.7 | 7.5 |  |
+| Pennsylvania: Allegheny | 6.0 | 5.8 | 5.4 | 5.4 | 5.5 | 5.5 | 4.9 |
+| Pennsylvania: Crawford | 3.5 | 2.4 | 3.5 | 3.5 | 3.5 | 3.5 | 3.5 |
+| Pennsylvania: Mercer | 2.7 | 3.7 | 5.5 | 7.3 | 7.3 | 7.3 | 7.3 |
+| Virginia: Loudoun | 9.2 | 8.5 | 8.7 | 8.5 | 8.7 | 7.5 | 8.7 |
 
 ## Total cases by day
 
@@ -69,10 +69,10 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 10156 | 10212 | 10266 | 10320 | 10346 | 10394 |  |
 | New York: Madison | 474 | 474 | 474 | 475 | 475 | 475 |  |
 | New York: Oswego | 314 | 325 | 325 | 329 | 331 | 331 |  |
-| Pennsylvania: Allegheny | 10641 | 10709 | 10771 | 10810 | 10847 | 10915 |  |
-| Pennsylvania: Crawford | 222 | 222 | 235 | 236 | 237 | 237 |  |
-| Pennsylvania: Mercer | 565 | 574 | 589 | 600 | 607 | 612 |  |
-| Virginia: Loudoun | 6146 | 6166 | 6198 | 6223 | 6263 | 6273 |  |
+| Pennsylvania: Allegheny | 10641 | 10709 | 10771 | 10810 | 10847 | 10915 | 10969 |
+| Pennsylvania: Crawford | 222 | 222 | 235 | 236 | 237 | 237 | 241 |
+| Pennsylvania: Mercer | 565 | 574 | 589 | 600 | 607 | 612 | 617 |
+| Virginia: Loudoun | 6146 | 6166 | 6198 | 6223 | 6263 | 6273 | 6327 |
 
 ## Total cases by day (per 100,000 population)
 
@@ -84,7 +84,7 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | New York: Erie | 1105.5 | 1111.6 | 1117.4 | 1123.3 | 1126.2 | 1131.4 |  |
 | New York: Madison | 668.2 | 668.2 | 668.2 | 669.6 | 669.6 | 669.6 |  |
 | New York: Oswego | 257.1 | 266.2 | 266.2 | 269.4 | 271.1 | 271.1 |  |
-| Pennsylvania: Allegheny | 875.0 | 880.6 | 885.7 | 888.9 | 892.0 | 897.6 |  |
-| Pennsylvania: Crawford | 262.3 | 262.3 | 277.7 | 278.9 | 280.0 | 280.0 |  |
-| Pennsylvania: Mercer | 516.3 | 524.6 | 538.3 | 548.3 | 554.7 | 559.3 |  |
-| Virginia: Loudoun | 1486.2 | 1491.0 | 1498.8 | 1504.8 | 1514.5 | 1516.9 |  |
+| Pennsylvania: Allegheny | 875.0 | 880.6 | 885.7 | 888.9 | 892.0 | 897.6 | 902.0 |
+| Pennsylvania: Crawford | 262.3 | 262.3 | 277.7 | 278.9 | 280.0 | 280.0 | 284.8 |
+| Pennsylvania: Mercer | 516.3 | 524.6 | 538.3 | 548.3 | 554.7 | 559.3 | 563.9 |
+| Virginia: Loudoun | 1486.2 | 1491.0 | 1498.8 | 1504.8 | 1514.5 | 1516.9 | 1530.0 |
