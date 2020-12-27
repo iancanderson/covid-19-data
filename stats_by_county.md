@@ -1,90 +1,90 @@
 _The current day's numbers may not be updated yet. Take the last columns with a grain of salt._
 ## New cases by day
 
-| County | 2020-12-20 | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 |
+| County | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 | 2020-12-27 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 739 | 621 | 357 | 819 | 983 | 0 |  |
-| Massachusetts: Middlesex | 871 | 853 | 727 | 921 | 1105 | 0 |  |
-| New York: Chautauqua | 50 | 53 | 47 | 47 | 70 | 113 |  |
-| New York: Erie | 447 | 388 | 426 | 541 | 441 | 656 |  |
-| New York: Madison | 45 | 32 | 15 | 41 | 64 | 42 |  |
-| New York: Oswego | 58 | 45 | 45 | 46 | 52 | 75 |  |
-| Pennsylvania: Allegheny | 631 | 781 | 797 | 830 | 912 | 657 |  |
-| Pennsylvania: Crawford | 55 | 64 | 70 | 64 | 73 | 47 |  |
-| Pennsylvania: Mercer | 86 | 75 | 79 | 44 | 99 | 65 |  |
-| Virginia: Loudoun | 179 | 179 | 64 | 157 | 89 | 109 |  |
+| Massachusetts: Essex | 621 | 357 | 819 | 983 | 0 | 848 |  |
+| Massachusetts: Middlesex | 853 | 727 | 921 | 1105 | 0 | 1489 |  |
+| New York: Chautauqua | 53 | 47 | 47 | 70 | 113 | 62 |  |
+| New York: Erie | 388 | 426 | 541 | 441 | 656 | 331 |  |
+| New York: Madison | 32 | 15 | 41 | 64 | 42 | 24 |  |
+| New York: Oswego | 45 | 45 | 46 | 52 | 75 | 48 |  |
+| Pennsylvania: Allegheny | 781 | 797 | 830 | 912 | 657 | 552 |  |
+| Pennsylvania: Crawford | 64 | 70 | 64 | 73 | 47 | 66 |  |
+| Pennsylvania: Mercer | 75 | 79 | 44 | 99 | 65 | 106 |  |
+| Virginia: Loudoun | 179 | 64 | 157 | 89 | 109 | 161 |  |
 
 ## New cases by day (per 100,000 population)
 
-| County | 2020-12-20 | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 |
+| County | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 | 2020-12-27 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 93.7 | 78.7 | 45.2 | 103.8 | 124.6 | 0.0 |  |
-| Massachusetts: Middlesex | 54.0 | 52.9 | 45.1 | 57.1 | 68.6 | 0.0 |  |
-| New York: Chautauqua | 39.4 | 41.8 | 37.0 | 37.0 | 55.2 | 89.0 |  |
-| New York: Erie | 48.7 | 42.2 | 46.4 | 58.9 | 48.0 | 71.4 |  |
-| New York: Madison | 63.4 | 45.1 | 21.1 | 57.8 | 90.2 | 59.2 |  |
-| New York: Oswego | 47.5 | 36.9 | 36.9 | 37.7 | 42.6 | 61.4 |  |
-| Pennsylvania: Allegheny | 51.9 | 64.2 | 65.5 | 68.3 | 75.0 | 54.0 |  |
-| Pennsylvania: Crawford | 65.0 | 75.6 | 82.7 | 75.6 | 86.3 | 55.5 |  |
-| Pennsylvania: Mercer | 78.6 | 68.5 | 72.2 | 40.2 | 90.5 | 59.4 |  |
-| Virginia: Loudoun | 43.3 | 43.3 | 15.5 | 38.0 | 21.5 | 26.4 |  |
+| Massachusetts: Essex | 78.7 | 45.2 | 103.8 | 124.6 | 0.0 | 107.5 |  |
+| Massachusetts: Middlesex | 52.9 | 45.1 | 57.1 | 68.6 | 0.0 | 92.4 |  |
+| New York: Chautauqua | 41.8 | 37.0 | 37.0 | 55.2 | 89.0 | 48.9 |  |
+| New York: Erie | 42.2 | 46.4 | 58.9 | 48.0 | 71.4 | 36.0 |  |
+| New York: Madison | 45.1 | 21.1 | 57.8 | 90.2 | 59.2 | 33.8 |  |
+| New York: Oswego | 36.9 | 36.9 | 37.7 | 42.6 | 61.4 | 39.3 |  |
+| Pennsylvania: Allegheny | 64.2 | 65.5 | 68.3 | 75.0 | 54.0 | 45.4 |  |
+| Pennsylvania: Crawford | 75.6 | 82.7 | 75.6 | 86.3 | 55.5 | 78.0 |  |
+| Pennsylvania: Mercer | 68.5 | 72.2 | 40.2 | 90.5 | 59.4 | 96.9 |  |
+| Virginia: Loudoun | 43.3 | 15.5 | 38.0 | 21.5 | 26.4 | 38.9 |  |
 
 ## New cases by day (7 day average)
 
-| County | 2020-12-20 | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 |
+| County | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 | 2020-12-27 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 721 | 733 | 724 | 693 | 702 | 581 |  |
-| Massachusetts: Middlesex | 939 | 953 | 945 | 931 | 934 | 752 |  |
-| New York: Chautauqua | 64 | 65 | 64 | 66 | 70 | 68 |  |
-| New York: Erie | 484 | 484 | 489 | 511 | 491 | 478 |  |
-| New York: Madison | 42 | 44 | 42 | 38 | 42 | 43 |  |
-| New York: Oswego | 56 | 55 | 55 | 53 | 53 | 53 |  |
-| Pennsylvania: Allegheny | 887 | 891 | 854 | 819 | 828 | 803 |  |
-| Pennsylvania: Crawford | 86 | 82 | 75 | 70 | 73 | 68 |  |
-| Pennsylvania: Mercer | 103 | 95 | 93 | 88 | 90 | 84 |  |
-| Virginia: Loudoun | 128 | 132 | 128 | 127 | 125 | 128 |  |
+| Massachusetts: Essex | 733 | 724 | 693 | 702 | 581 | 624 |  |
+| Massachusetts: Middlesex | 953 | 945 | 931 | 934 | 752 | 852 |  |
+| New York: Chautauqua | 65 | 64 | 66 | 70 | 68 | 63 |  |
+| New York: Erie | 484 | 489 | 511 | 491 | 478 | 461 |  |
+| New York: Madison | 44 | 42 | 38 | 42 | 43 | 38 |  |
+| New York: Oswego | 55 | 55 | 53 | 53 | 53 | 53 |  |
+| Pennsylvania: Allegheny | 891 | 854 | 819 | 828 | 803 | 737 |  |
+| Pennsylvania: Crawford | 82 | 75 | 70 | 73 | 68 | 63 |  |
+| Pennsylvania: Mercer | 95 | 93 | 88 | 90 | 84 | 79 |  |
+| Virginia: Loudoun | 132 | 128 | 127 | 125 | 128 | 134 |  |
 
 ## New cases by day (7 day average per 100,000 population)
 
-| County | 2020-12-20 | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 |
+| County | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 | 2020-12-27 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 91.4 | 92.9 | 91.8 | 87.8 | 89.0 | 73.6 |  |
-| Massachusetts: Middlesex | 58.3 | 59.1 | 58.6 | 57.8 | 58.0 | 46.7 |  |
-| New York: Chautauqua | 50.4 | 51.2 | 50.4 | 52.0 | 55.2 | 53.6 |  |
-| New York: Erie | 52.7 | 52.7 | 53.2 | 55.6 | 53.4 | 52.0 |  |
-| New York: Madison | 59.2 | 62.0 | 59.2 | 53.6 | 59.2 | 60.6 |  |
-| New York: Oswego | 45.9 | 45.0 | 45.0 | 43.4 | 43.4 | 43.4 |  |
-| Pennsylvania: Allegheny | 72.9 | 73.3 | 70.2 | 67.3 | 68.1 | 66.0 |  |
-| Pennsylvania: Crawford | 101.6 | 96.9 | 88.6 | 82.7 | 86.3 | 80.4 |  |
-| Pennsylvania: Mercer | 94.1 | 86.8 | 85.0 | 80.4 | 82.2 | 76.8 |  |
-| Virginia: Loudoun | 31.0 | 31.9 | 31.0 | 30.7 | 30.2 | 31.0 |  |
+| Massachusetts: Essex | 92.9 | 91.8 | 87.8 | 89.0 | 73.6 | 79.1 |  |
+| Massachusetts: Middlesex | 59.1 | 58.6 | 57.8 | 58.0 | 46.7 | 52.9 |  |
+| New York: Chautauqua | 51.2 | 50.4 | 52.0 | 55.2 | 53.6 | 49.6 |  |
+| New York: Erie | 52.7 | 53.2 | 55.6 | 53.4 | 52.0 | 50.2 |  |
+| New York: Madison | 62.0 | 59.2 | 53.6 | 59.2 | 60.6 | 53.6 |  |
+| New York: Oswego | 45.0 | 45.0 | 43.4 | 43.4 | 43.4 | 43.4 |  |
+| Pennsylvania: Allegheny | 73.3 | 70.2 | 67.3 | 68.1 | 66.0 | 60.6 |  |
+| Pennsylvania: Crawford | 96.9 | 88.6 | 82.7 | 86.3 | 80.4 | 74.4 |  |
+| Pennsylvania: Mercer | 86.8 | 85.0 | 80.4 | 82.2 | 76.8 | 72.2 |  |
+| Virginia: Loudoun | 31.9 | 31.0 | 30.7 | 30.2 | 31.0 | 32.4 |  |
 
 ## Total cases by day
 
-| County | 2020-12-20 | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 |
+| County | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 | 2020-12-27 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 50902 | 51523 | 51880 | 52699 | 53682 | 53682 |  |
-| Massachusetts: Middlesex | 65653 | 66506 | 67233 | 68154 | 69259 | 69259 |  |
-| New York: Chautauqua | 2770 | 2823 | 2870 | 2917 | 2987 | 3100 |  |
-| New York: Erie | 36400 | 36788 | 37214 | 37755 | 38196 | 38852 |  |
-| New York: Madison | 1865 | 1897 | 1912 | 1953 | 2017 | 2059 |  |
-| New York: Oswego | 2782 | 2827 | 2872 | 2918 | 2970 | 3045 |  |
-| Pennsylvania: Allegheny | 46330 | 47111 | 47908 | 48738 | 49650 | 50307 |  |
-| Pennsylvania: Crawford | 4281 | 4345 | 4415 | 4479 | 4552 | 4599 |  |
-| Pennsylvania: Mercer | 5166 | 5241 | 5320 | 5364 | 5463 | 5528 |  |
-| Virginia: Loudoun | 12682 | 12861 | 12925 | 13082 | 13171 | 13280 |  |
+| Massachusetts: Essex | 51523 | 51880 | 52699 | 53682 | 53682 | 54530 |  |
+| Massachusetts: Middlesex | 66506 | 67233 | 68154 | 69259 | 69259 | 70748 |  |
+| New York: Chautauqua | 2823 | 2870 | 2917 | 2987 | 3100 | 3162 |  |
+| New York: Erie | 36788 | 37214 | 37755 | 38196 | 38852 | 39183 |  |
+| New York: Madison | 1897 | 1912 | 1953 | 2017 | 2059 | 2083 |  |
+| New York: Oswego | 2827 | 2872 | 2918 | 2970 | 3045 | 3093 |  |
+| Pennsylvania: Allegheny | 47111 | 47908 | 48738 | 49650 | 50307 | 50859 |  |
+| Pennsylvania: Crawford | 4345 | 4415 | 4479 | 4552 | 4599 | 4665 |  |
+| Pennsylvania: Mercer | 5241 | 5320 | 5364 | 5463 | 5528 | 5634 |  |
+| Virginia: Loudoun | 12861 | 12925 | 13082 | 13171 | 13280 | 13441 |  |
 
 ## Total cases by day (per 100,000 population)
 
-| County | 2020-12-20 | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 |
+| County | 2020-12-21 | 2020-12-22 | 2020-12-23 | 2020-12-24 | 2020-12-25 | 2020-12-26 | 2020-12-27 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 6451.2 | 6529.9 | 6575.1 | 6678.9 | 6803.5 | 6803.5 |  |
-| Massachusetts: Middlesex | 4073.5 | 4126.5 | 4171.6 | 4228.7 | 4297.3 | 4297.3 |  |
-| New York: Chautauqua | 2182.8 | 2224.5 | 2261.6 | 2298.6 | 2353.8 | 2442.8 |  |
-| New York: Erie | 3962.1 | 4004.3 | 4050.7 | 4109.6 | 4157.6 | 4229.0 |  |
-| New York: Madison | 2628.9 | 2674.1 | 2695.2 | 2753.0 | 2843.2 | 2902.4 |  |
-| New York: Oswego | 2278.3 | 2315.1 | 2352.0 | 2389.7 | 2432.3 | 2493.7 |  |
-| Pennsylvania: Allegheny | 3809.9 | 3874.1 | 3939.7 | 4007.9 | 4082.9 | 4136.9 |  |
-| Pennsylvania: Crawford | 5058.5 | 5134.2 | 5216.9 | 5292.5 | 5378.8 | 5434.3 |  |
-| Pennsylvania: Mercer | 4721.1 | 4789.6 | 4861.8 | 4902.0 | 4992.5 | 5051.9 |  |
-| Virginia: Loudoun | 3066.7 | 3110.0 | 3125.5 | 3163.4 | 3184.9 | 3211.3 |  |
+| Massachusetts: Essex | 6529.9 | 6575.1 | 6678.9 | 6803.5 | 6803.5 | 6911.0 |  |
+| Massachusetts: Middlesex | 4126.5 | 4171.6 | 4228.7 | 4297.3 | 4297.3 | 4389.7 |  |
+| New York: Chautauqua | 2224.5 | 2261.6 | 2298.6 | 2353.8 | 2442.8 | 2491.7 |  |
+| New York: Erie | 4004.3 | 4050.7 | 4109.6 | 4157.6 | 4229.0 | 4265.0 |  |
+| New York: Madison | 2674.1 | 2695.2 | 2753.0 | 2843.2 | 2902.4 | 2936.2 |  |
+| New York: Oswego | 2315.1 | 2352.0 | 2389.7 | 2432.3 | 2493.7 | 2533.0 |  |
+| Pennsylvania: Allegheny | 3874.1 | 3939.7 | 4007.9 | 4082.9 | 4136.9 | 4182.3 |  |
+| Pennsylvania: Crawford | 5134.2 | 5216.9 | 5292.5 | 5378.8 | 5434.3 | 5512.3 |  |
+| Pennsylvania: Mercer | 4789.6 | 4861.8 | 4902.0 | 4992.5 | 5051.9 | 5148.8 |  |
+| Virginia: Loudoun | 3110.0 | 3125.5 | 3163.4 | 3184.9 | 3211.3 | 3250.2 |  |
