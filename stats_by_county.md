@@ -3,12 +3,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2021-12-25 | 2021-12-26 | 2021-12-27 | 2021-12-28 | 2021-12-29 | 2021-12-30 | 2021-12-31 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 0 | 0 | 1569 | 1142 | 2295 | 3063 |  |
-| Massachusetts: Middlesex | 0 | 0 | 2568 | 2061 | 3306 | 4227 |  |
-| New York: Chautauqua | 0 | 110 | 48 | 42 | 104 | 116 |  |
-| New York: Erie | 0 | 1785 | 489 | 776 | 1612 | 2252 |  |
-| New York: Madison | 0 | 30 | 1 | 14 | 152 | 107 |  |
-| New York: Oswego | 0 | 74 | 28 | 35 | 216 | 177 |  |
+| Massachusetts: Essex | 0 | 0 | 1569 | 1142 | 2295 | 3063 | 3106 |
+| Massachusetts: Middlesex | 0 | 0 | 2568 | 2061 | 3306 | 4227 | 4621 |
+| New York: Chautauqua | 0 | 110 | 48 | 42 | 104 | 116 | 132 |
+| New York: Erie | 0 | 1785 | 489 | 776 | 1612 | 2252 | 2182 |
+| New York: Madison | 0 | 30 | 1 | 14 | 152 | 107 | 110 |
+| New York: Oswego | 0 | 74 | 28 | 35 | 216 | 177 | 183 |
 | Pennsylvania: Allegheny | 1242 | 886 | 409 | 654 | 1701 | 1980 | 2220 |
 | Pennsylvania: Crawford | 58 | 34 | 12 | 26 | 52 | 115 | 80 |
 | Pennsylvania: Mercer | 79 | 29 | 40 | 58 | 58 | 100 | 97 |
@@ -18,12 +18,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2021-12-25 | 2021-12-26 | 2021-12-27 | 2021-12-28 | 2021-12-29 | 2021-12-30 | 2021-12-31 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 0.0 | 0.0 | 198.9 | 144.7 | 290.9 | 388.2 |  |
-| Massachusetts: Middlesex | 0.0 | 0.0 | 159.3 | 127.9 | 205.1 | 262.3 |  |
-| New York: Chautauqua | 0.0 | 86.7 | 37.8 | 33.1 | 82.0 | 91.4 |  |
-| New York: Erie | 0.0 | 194.3 | 53.2 | 84.5 | 175.5 | 245.1 |  |
-| New York: Madison | 0.0 | 42.3 | 1.4 | 19.7 | 214.3 | 150.8 |  |
-| New York: Oswego | 0.0 | 60.6 | 22.9 | 28.7 | 176.9 | 145.0 |  |
+| Massachusetts: Essex | 0.0 | 0.0 | 198.9 | 144.7 | 290.9 | 388.2 | 393.6 |
+| Massachusetts: Middlesex | 0.0 | 0.0 | 159.3 | 127.9 | 205.1 | 262.3 | 286.7 |
+| New York: Chautauqua | 0.0 | 86.7 | 37.8 | 33.1 | 82.0 | 91.4 | 104.0 |
+| New York: Erie | 0.0 | 194.3 | 53.2 | 84.5 | 175.5 | 245.1 | 237.5 |
+| New York: Madison | 0.0 | 42.3 | 1.4 | 19.7 | 214.3 | 150.8 | 155.1 |
+| New York: Oswego | 0.0 | 60.6 | 22.9 | 28.7 | 176.9 | 145.0 | 149.9 |
 | Pennsylvania: Allegheny | 102.1 | 72.9 | 33.6 | 53.8 | 139.9 | 162.8 | 182.6 |
 | Pennsylvania: Crawford | 68.5 | 40.2 | 14.2 | 30.7 | 61.4 | 135.9 | 94.5 |
 | Pennsylvania: Mercer | 72.2 | 26.5 | 36.6 | 53.0 | 53.0 | 91.4 | 88.6 |
@@ -33,12 +33,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2021-12-25 | 2021-12-26 | 2021-12-27 | 2021-12-28 | 2021-12-29 | 2021-12-30 | 2021-12-31 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 849 | 849 | 836 | 893 | 1089 | 1361 |  |
-| Massachusetts: Middlesex | 1404 | 1404 | 1391 | 1526 | 1741 | 2046 |  |
-| New York: Chautauqua | 58 | 62 | 63 | 61 | 66 | 70 |  |
-| New York: Erie | 482 | 683 | 694 | 732 | 879 | 1083 |  |
-| New York: Madison | 47 | 45 | 41 | 37 | 50 | 52 |  |
-| New York: Oswego | 74 | 75 | 70 | 66 | 81 | 93 |  |
+| Massachusetts: Essex | 849 | 849 | 836 | 893 | 1089 | 1361 | 1596 |
+| Massachusetts: Middlesex | 1404 | 1404 | 1391 | 1526 | 1741 | 2046 | 2398 |
+| New York: Chautauqua | 58 | 62 | 63 | 61 | 66 | 70 | 79 |
+| New York: Erie | 482 | 683 | 694 | 732 | 879 | 1083 | 1299 |
+| New York: Madison | 47 | 45 | 41 | 37 | 50 | 52 | 59 |
+| New York: Oswego | 74 | 75 | 70 | 66 | 81 | 93 | 102 |
 | Pennsylvania: Allegheny | 853 | 907 | 903 | 881 | 1060 | 1208 | 1299 |
 | Pennsylvania: Crawford | 44 | 45 | 44 | 43 | 43 | 51 | 54 |
 | Pennsylvania: Mercer | 64 | 59 | 54 | 54 | 57 | 64 | 66 |
@@ -48,12 +48,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2021-12-25 | 2021-12-26 | 2021-12-27 | 2021-12-28 | 2021-12-29 | 2021-12-30 | 2021-12-31 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 107.6 | 107.6 | 106.0 | 113.2 | 138.0 | 172.5 |  |
-| Massachusetts: Middlesex | 87.1 | 87.1 | 86.3 | 94.7 | 108.0 | 126.9 |  |
-| New York: Chautauqua | 45.7 | 48.9 | 49.6 | 48.1 | 52.0 | 55.2 |  |
-| New York: Erie | 52.5 | 74.3 | 75.5 | 79.7 | 95.7 | 117.9 |  |
-| New York: Madison | 66.3 | 63.4 | 57.8 | 52.2 | 70.5 | 73.3 |  |
-| New York: Oswego | 60.6 | 61.4 | 57.3 | 54.1 | 66.3 | 76.2 |  |
+| Massachusetts: Essex | 107.6 | 107.6 | 106.0 | 113.2 | 138.0 | 172.5 | 202.3 |
+| Massachusetts: Middlesex | 87.1 | 87.1 | 86.3 | 94.7 | 108.0 | 126.9 | 148.8 |
+| New York: Chautauqua | 45.7 | 48.9 | 49.6 | 48.1 | 52.0 | 55.2 | 62.3 |
+| New York: Erie | 52.5 | 74.3 | 75.5 | 79.7 | 95.7 | 117.9 | 141.4 |
+| New York: Madison | 66.3 | 63.4 | 57.8 | 52.2 | 70.5 | 73.3 | 83.2 |
+| New York: Oswego | 60.6 | 61.4 | 57.3 | 54.1 | 66.3 | 76.2 | 83.5 |
 | Pennsylvania: Allegheny | 70.1 | 74.6 | 74.3 | 72.4 | 87.2 | 99.3 | 106.8 |
 | Pennsylvania: Crawford | 52.0 | 53.2 | 52.0 | 50.8 | 50.8 | 60.3 | 63.8 |
 | Pennsylvania: Mercer | 58.5 | 53.9 | 49.3 | 49.3 | 52.1 | 58.5 | 60.3 |
@@ -63,12 +63,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2021-12-25 | 2021-12-26 | 2021-12-27 | 2021-12-28 | 2021-12-29 | 2021-12-30 | 2021-12-31 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 138812 | 138812 | 140381 | 141523 | 143818 | 146881 |  |
-| Massachusetts: Middlesex | 196703 | 196703 | 199271 | 201332 | 204638 | 208865 |  |
-| New York: Chautauqua | 17125 | 17235 | 17283 | 17325 | 17429 | 17545 |  |
-| New York: Erie | 139793 | 141578 | 142067 | 142843 | 144455 | 146707 |  |
-| New York: Madison | 8672 | 8702 | 8703 | 8717 | 8869 | 8976 |  |
-| New York: Oswego | 16491 | 16565 | 16593 | 16628 | 16844 | 17021 |  |
+| Massachusetts: Essex | 138812 | 138812 | 140381 | 141523 | 143818 | 146881 | 149987 |
+| Massachusetts: Middlesex | 196703 | 196703 | 199271 | 201332 | 204638 | 208865 | 213486 |
+| New York: Chautauqua | 17125 | 17235 | 17283 | 17325 | 17429 | 17545 | 17677 |
+| New York: Erie | 139793 | 141578 | 142067 | 142843 | 144455 | 146707 | 148889 |
+| New York: Madison | 8672 | 8702 | 8703 | 8717 | 8869 | 8976 | 9086 |
+| New York: Oswego | 16491 | 16565 | 16593 | 16628 | 16844 | 17021 | 17204 |
 | Pennsylvania: Allegheny | 168486 | 169372 | 169781 | 170435 | 172136 | 174116 | 176336 |
 | Pennsylvania: Crawford | 14836 | 14870 | 14882 | 14908 | 14960 | 15075 | 15155 |
 | Pennsylvania: Mercer | 17773 | 17802 | 17842 | 17900 | 17958 | 18058 | 18155 |
@@ -78,12 +78,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2021-12-25 | 2021-12-26 | 2021-12-27 | 2021-12-28 | 2021-12-29 | 2021-12-30 | 2021-12-31 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 17592.7 | 17592.7 | 17791.5 | 17936.2 | 18227.1 | 18615.3 |  |
-| Massachusetts: Middlesex | 12204.7 | 12204.7 | 12364.0 | 12491.9 | 12697.0 | 12959.3 |  |
-| New York: Chautauqua | 13494.6 | 13581.2 | 13619.1 | 13652.2 | 13734.1 | 13825.5 |  |
-| New York: Erie | 15216.4 | 15410.7 | 15463.9 | 15548.3 | 15723.8 | 15968.9 |  |
-| New York: Madison | 12224.2 | 12266.5 | 12267.9 | 12287.7 | 12501.9 | 12652.8 |  |
-| New York: Oswego | 13505.1 | 13565.7 | 13588.7 | 13617.3 | 13794.2 | 13939.2 |  |
+| Massachusetts: Essex | 17592.7 | 17592.7 | 17791.5 | 17936.2 | 18227.1 | 18615.3 | 19008.9 |
+| Massachusetts: Middlesex | 12204.7 | 12204.7 | 12364.0 | 12491.9 | 12697.0 | 12959.3 | 13246.0 |
+| New York: Chautauqua | 13494.6 | 13581.2 | 13619.1 | 13652.2 | 13734.1 | 13825.5 | 13929.5 |
+| New York: Erie | 15216.4 | 15410.7 | 15463.9 | 15548.3 | 15723.8 | 15968.9 | 16206.5 |
+| New York: Madison | 12224.2 | 12266.5 | 12267.9 | 12287.7 | 12501.9 | 12652.8 | 12807.8 |
+| New York: Oswego | 13505.1 | 13565.7 | 13588.7 | 13617.3 | 13794.2 | 13939.2 | 14089.1 |
 | Pennsylvania: Allegheny | 13855.2 | 13928.1 | 13961.7 | 14015.5 | 14155.4 | 14318.2 | 14500.8 |
 | Pennsylvania: Crawford | 17530.6 | 17570.8 | 17585.0 | 17615.7 | 17677.2 | 17813.0 | 17907.6 |
 | Pennsylvania: Mercer | 16242.3 | 16268.8 | 16305.4 | 16358.4 | 16411.4 | 16502.8 | 16591.4 |
