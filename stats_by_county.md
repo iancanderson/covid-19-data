@@ -63,12 +63,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2022-05-11 | 2022-05-12 | 2022-05-13 | 2022-05-14 | 2022-05-15 | 2022-05-16 | 2022-05-17 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 213261 | 213890 | 214332 |  |  |  | 215483 |
-| Massachusetts: Middlesex | 349443 | 350880 | 352032 |  |  |  | 355421 |
-| New York: Chautauqua | 24499 | 24556 | 24556 |  |  |  | 24791 |
-| New York: Erie | 226159 | 227059 | 227059 |  |  |  | 229144 |
-| New York: Madison | 14290 | 14319 | 14319 |  |  |  | 14396 |
-| New York: Oswego | 28774 | 28826 | 28826 |  |  |  | 28986 |
+| Massachusetts: Essex | 213261 | 213890 | 214332 |  |  |  | 215872 |
+| Massachusetts: Middlesex | 349443 | 350880 | 352032 |  |  |  | 356297 |
+| New York: Chautauqua | 24499 | 24556 | 24556 |  |  |  | 24856 |
+| New York: Erie | 226159 | 227059 | 227059 |  |  |  | 229641 |
+| New York: Madison | 14290 | 14319 | 14319 |  |  |  | 14415 |
+| New York: Oswego | 28774 | 28826 | 28826 |  |  |  | 29015 |
 | Pennsylvania: Allegheny | 271427 | 271427 | 271427 |  |  |  | 271427 |
 | Pennsylvania: Crawford | 20080 | 20080 | 20080 |  |  |  | 20080 |
 | Pennsylvania: Mercer | 23612 | 23612 | 23612 |  |  |  | 23612 |
@@ -78,12 +78,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2022-05-11 | 2022-05-12 | 2022-05-13 | 2022-05-14 | 2022-05-15 | 2022-05-16 | 2022-05-17 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 27028.1 | 27107.8 | 27163.8 |  |  |  | 27309.7 |
-| Massachusetts: Middlesex | 21681.7 | 21770.8 | 21842.3 |  |  |  | 22052.6 |
-| New York: Chautauqua | 19305.3 | 19350.2 | 19350.2 |  |  |  | 19535.4 |
-| New York: Erie | 24617.2 | 24715.2 | 24715.2 |  |  |  | 24942.1 |
-| New York: Madison | 20143.5 | 20184.4 | 20184.4 |  |  |  | 20292.9 |
-| New York: Oswego | 23564.2 | 23606.8 | 23606.8 |  |  |  | 23737.8 |
+| Massachusetts: Essex | 27028.1 | 27107.8 | 27163.8 |  |  |  | 27359.0 |
+| Massachusetts: Middlesex | 21681.7 | 21770.8 | 21842.3 |  |  |  | 22106.9 |
+| New York: Chautauqua | 19305.3 | 19350.2 | 19350.2 |  |  |  | 19586.6 |
+| New York: Erie | 24617.2 | 24715.2 | 24715.2 |  |  |  | 24996.2 |
+| New York: Madison | 20143.5 | 20184.4 | 20184.4 |  |  |  | 20319.7 |
+| New York: Oswego | 23564.2 | 23606.8 | 23606.8 |  |  |  | 23761.6 |
 | Pennsylvania: Allegheny | 22320.5 | 22320.5 | 22320.5 |  |  |  | 22320.5 |
 | Pennsylvania: Crawford | 23727.1 | 23727.1 | 23727.1 |  |  |  | 23727.1 |
 | Pennsylvania: Mercer | 21578.4 | 21578.4 | 21578.4 |  |  |  | 21578.4 |
