@@ -72,7 +72,7 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | Pennsylvania: Allegheny | 271427 |  |  |  |  |  | 274948 |
 | Pennsylvania: Crawford | 20080 |  |  |  |  |  | 20281 |
 | Pennsylvania: Mercer | 23612 |  |  |  |  |  | 23744 |
-| Virginia: Loudoun | 71890 |  |  |  |  |  | 72806 |
+| Virginia: Loudoun | 71890 |  |  |  |  |  | 73035 |
 
 ## Total cases by day (per 100,000 population)
 
@@ -87,4 +87,4 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | Pennsylvania: Allegheny | 22320.5 |  |  |  |  |  | 22610.0 |
 | Pennsylvania: Crawford | 23727.1 |  |  |  |  |  | 23964.6 |
 | Pennsylvania: Mercer | 21578.4 |  |  |  |  |  | 21699.1 |
-| Virginia: Loudoun | 17384.1 |  |  |  |  |  | 17605.6 |
+| Virginia: Loudoun | 17384.1 |  |  |  |  |  | 17661.0 |
