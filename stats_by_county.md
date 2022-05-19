@@ -63,28 +63,28 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2022-05-12 | 2022-05-13 | 2022-05-14 | 2022-05-15 | 2022-05-16 | 2022-05-17 | 2022-05-18 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 213890 | 214332 |  |  |  |  | 216289 |
-| Massachusetts: Middlesex | 350880 | 352032 |  |  |  |  | 357373 |
-| New York: Chautauqua | 24556 | 24556 |  |  |  |  | 24922 |
-| New York: Erie | 227059 | 227059 |  |  |  |  | 230166 |
-| New York: Madison | 14319 | 14319 |  |  |  |  | 14426 |
-| New York: Oswego | 28826 | 28826 |  |  |  |  | 29054 |
-| Pennsylvania: Allegheny | 271427 | 271427 |  |  |  |  | 274948 |
-| Pennsylvania: Crawford | 20080 | 20080 |  |  |  |  | 20281 |
-| Pennsylvania: Mercer | 23612 | 23612 |  |  |  |  | 23744 |
-| Virginia: Loudoun | 71687 | 71890 |  |  |  |  | 72806 |
+| Massachusetts: Essex | 213890 | 214332 |  |  |  |  |  |
+| Massachusetts: Middlesex | 350880 | 352032 |  |  |  |  |  |
+| New York: Chautauqua | 24556 | 24556 |  |  |  |  |  |
+| New York: Erie | 227059 | 227059 |  |  |  |  |  |
+| New York: Madison | 14319 | 14319 |  |  |  |  |  |
+| New York: Oswego | 28826 | 28826 |  |  |  |  |  |
+| Pennsylvania: Allegheny | 271427 | 271427 |  |  |  |  |  |
+| Pennsylvania: Crawford | 20080 | 20080 |  |  |  |  |  |
+| Pennsylvania: Mercer | 23612 | 23612 |  |  |  |  |  |
+| Virginia: Loudoun | 71687 | 71890 |  |  |  |  |  |
 
 ## Total cases by day (per 100,000 population)
 
 | County | 2022-05-12 | 2022-05-13 | 2022-05-14 | 2022-05-15 | 2022-05-16 | 2022-05-17 | 2022-05-18 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 27107.8 | 27163.8 |  |  |  |  | 27411.9 |
-| Massachusetts: Middlesex | 21770.8 | 21842.3 |  |  |  |  | 22173.7 |
-| New York: Chautauqua | 19350.2 | 19350.2 |  |  |  |  | 19638.6 |
-| New York: Erie | 24715.2 | 24715.2 |  |  |  |  | 25053.4 |
-| New York: Madison | 20184.4 | 20184.4 |  |  |  |  | 20335.2 |
-| New York: Oswego | 23606.8 | 23606.8 |  |  |  |  | 23793.5 |
-| Pennsylvania: Allegheny | 22320.5 | 22320.5 |  |  |  |  | 22610.0 |
-| Pennsylvania: Crawford | 23727.1 | 23727.1 |  |  |  |  | 23964.6 |
-| Pennsylvania: Mercer | 21578.4 | 21578.4 |  |  |  |  | 21699.1 |
-| Virginia: Loudoun | 17335.0 | 17384.1 |  |  |  |  | 17605.6 |
+| Massachusetts: Essex | 27107.8 | 27163.8 |  |  |  |  |  |
+| Massachusetts: Middlesex | 21770.8 | 21842.3 |  |  |  |  |  |
+| New York: Chautauqua | 19350.2 | 19350.2 |  |  |  |  |  |
+| New York: Erie | 24715.2 | 24715.2 |  |  |  |  |  |
+| New York: Madison | 20184.4 | 20184.4 |  |  |  |  |  |
+| New York: Oswego | 23606.8 | 23606.8 |  |  |  |  |  |
+| Pennsylvania: Allegheny | 22320.5 | 22320.5 |  |  |  |  |  |
+| Pennsylvania: Crawford | 23727.1 | 23727.1 |  |  |  |  |  |
+| Pennsylvania: Mercer | 21578.4 | 21578.4 |  |  |  |  |  |
+| Virginia: Loudoun | 17335.0 | 17384.1 |  |  |  |  |  |
