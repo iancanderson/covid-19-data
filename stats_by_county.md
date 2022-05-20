@@ -63,8 +63,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2022-05-13 | 2022-05-14 | 2022-05-15 | 2022-05-16 | 2022-05-17 | 2022-05-18 | 2022-05-19 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 214332 |  |  |  |  |  | 216289 |
-| Massachusetts: Middlesex | 352032 |  |  |  |  |  | 357373 |
+| Massachusetts: Essex | 214332 |  |  |  |  |  | 216772 |
+| Massachusetts: Middlesex | 352032 |  |  |  |  |  | 358544 |
 | New York: Chautauqua | 24556 |  |  |  |  |  | 24922 |
 | New York: Erie | 227059 |  |  |  |  |  | 230166 |
 | New York: Madison | 14319 |  |  |  |  |  | 14426 |
@@ -78,8 +78,8 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2022-05-13 | 2022-05-14 | 2022-05-15 | 2022-05-16 | 2022-05-17 | 2022-05-18 | 2022-05-19 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex | 27163.8 |  |  |  |  |  | 27411.9 |
-| Massachusetts: Middlesex | 21842.3 |  |  |  |  |  | 22173.7 |
+| Massachusetts: Essex | 27163.8 |  |  |  |  |  | 27473.1 |
+| Massachusetts: Middlesex | 21842.3 |  |  |  |  |  | 22246.3 |
 | New York: Chautauqua | 19350.2 |  |  |  |  |  | 19638.6 |
 | New York: Erie | 24715.2 |  |  |  |  |  | 25053.4 |
 | New York: Madison | 20184.4 |  |  |  |  |  | 20335.2 |
