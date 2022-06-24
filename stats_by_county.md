@@ -1,7 +1,7 @@
 _The current day's numbers may not be updated yet. Take the last columns with a grain of salt._
 ## New cases by day
 
-| County | 2022-06-17 | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 |
+| County | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 | 2022-06-24 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  |  |
 | Massachusetts: Middlesex |  |  |  |  |  |  |  |
@@ -16,7 +16,7 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 ## New cases by day (per 100,000 population)
 
-| County | 2022-06-17 | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 |
+| County | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 | 2022-06-24 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  |  |
 | Massachusetts: Middlesex |  |  |  |  |  |  |  |
@@ -31,7 +31,7 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 ## New cases by day (7 day average)
 
-| County | 2022-06-17 | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 |
+| County | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 | 2022-06-24 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  |  |
 | Massachusetts: Middlesex |  |  |  |  |  |  |  |
@@ -46,7 +46,7 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 ## New cases by day (7 day average per 100,000 population)
 
-| County | 2022-06-17 | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 |
+| County | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 | 2022-06-24 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  |  |
 | Massachusetts: Middlesex |  |  |  |  |  |  |  |
@@ -61,30 +61,30 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 ## Total cases by day
 
-| County | 2022-06-17 | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 |
+| County | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 | 2022-06-24 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex |  |  |  |  |  |  |  |
-| Massachusetts: Middlesex |  |  |  |  |  |  |  |
-| New York: Chautauqua |  |  |  |  |  |  |  |
-| New York: Erie |  |  |  |  |  |  |  |
-| New York: Madison |  |  |  |  |  |  |  |
-| New York: Oswego |  |  |  |  |  |  |  |
-| Pennsylvania: Allegheny |  |  |  |  |  |  |  |
-| Pennsylvania: Crawford |  |  |  |  |  |  |  |
-| Pennsylvania: Mercer |  |  |  |  |  |  |  |
-| Virginia: Loudoun |  |  |  |  |  |  |  |
+| Massachusetts: Essex |  |  |  |  |  |  | 224133 |
+| Massachusetts: Middlesex |  |  |  |  |  |  | 377198 |
+| New York: Chautauqua |  |  |  |  |  |  | 25777 |
+| New York: Erie |  |  |  |  |  |  | 236818 |
+| New York: Madison |  |  |  |  |  |  | 14722 |
+| New York: Oswego |  |  |  |  |  |  | 29581 |
+| Pennsylvania: Allegheny |  |  |  |  |  |  | 289042 |
+| Pennsylvania: Crawford |  |  |  |  |  |  | 20951 |
+| Pennsylvania: Mercer |  |  |  |  |  |  | 24412 |
+| Virginia: Loudoun |  |  |  |  |  |  | 79179 |
 
 ## Total cases by day (per 100,000 population)
 
-| County | 2022-06-17 | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 |
+| County | 2022-06-18 | 2022-06-19 | 2022-06-20 | 2022-06-21 | 2022-06-22 | 2022-06-23 | 2022-06-24 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex |  |  |  |  |  |  |  |
-| Massachusetts: Middlesex |  |  |  |  |  |  |  |
-| New York: Chautauqua |  |  |  |  |  |  |  |
-| New York: Erie |  |  |  |  |  |  |  |
-| New York: Madison |  |  |  |  |  |  |  |
-| New York: Oswego |  |  |  |  |  |  |  |
-| Pennsylvania: Allegheny |  |  |  |  |  |  |  |
-| Pennsylvania: Crawford |  |  |  |  |  |  |  |
-| Pennsylvania: Mercer |  |  |  |  |  |  |  |
-| Virginia: Loudoun |  |  |  |  |  |  |  |
+| Massachusetts: Essex |  |  |  |  |  |  | 28406.0 |
+| Massachusetts: Middlesex |  |  |  |  |  |  | 23403.7 |
+| New York: Chautauqua |  |  |  |  |  |  | 20312.4 |
+| New York: Erie |  |  |  |  |  |  | 25777.5 |
+| New York: Madison |  |  |  |  |  |  | 20752.5 |
+| New York: Oswego |  |  |  |  |  |  | 24225.1 |
+| Pennsylvania: Allegheny |  |  |  |  |  |  | 23769.0 |
+| Pennsylvania: Crawford |  |  |  |  |  |  | 24756.3 |
+| Pennsylvania: Mercer |  |  |  |  |  |  | 22309.5 |
+| Virginia: Loudoun |  |  |  |  |  |  | 19146.7 |
