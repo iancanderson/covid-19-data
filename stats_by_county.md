@@ -63,28 +63,28 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2022-06-24 | 2022-06-25 | 2022-06-26 | 2022-06-27 | 2022-06-28 | 2022-06-29 | 2022-06-30 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex |  |  |  |  |  |  | 225026 |
-| Massachusetts: Middlesex |  |  |  |  |  |  | 379392 |
-| New York: Chautauqua |  |  |  |  |  |  | 25846 |
-| New York: Erie |  |  |  |  |  |  | 237437 |
-| New York: Madison |  |  |  |  |  |  | 14756 |
-| New York: Oswego |  |  |  |  |  |  | 29648 |
-| Pennsylvania: Allegheny |  |  |  |  |  |  | 289042 |
-| Pennsylvania: Crawford |  |  |  |  |  |  | 20951 |
-| Pennsylvania: Mercer |  |  |  |  |  |  | 24412 |
+| Massachusetts: Essex |  |  |  |  |  |  | 225264 |
+| Massachusetts: Middlesex |  |  |  |  |  |  | 379849 |
+| New York: Chautauqua |  |  |  |  |  |  | 25858 |
+| New York: Erie |  |  |  |  |  |  | 237539 |
+| New York: Madison |  |  |  |  |  |  | 14761 |
+| New York: Oswego |  |  |  |  |  |  | 29665 |
+| Pennsylvania: Allegheny |  |  |  |  |  |  | 291095 |
+| Pennsylvania: Crawford |  |  |  |  |  |  | 21058 |
+| Pennsylvania: Mercer |  |  |  |  |  |  | 24546 |
 | Virginia: Loudoun |  |  |  |  |  |  | 80165 |
 
 ## Total cases by day (per 100,000 population)
 
 | County | 2022-06-24 | 2022-06-25 | 2022-06-26 | 2022-06-27 | 2022-06-28 | 2022-06-29 | 2022-06-30 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex |  |  |  |  |  |  | 28519.2 |
-| Massachusetts: Middlesex |  |  |  |  |  |  | 23539.9 |
-| New York: Chautauqua |  |  |  |  |  |  | 20366.7 |
-| New York: Erie |  |  |  |  |  |  | 25844.8 |
-| New York: Madison |  |  |  |  |  |  | 20800.4 |
-| New York: Oswego |  |  |  |  |  |  | 24279.9 |
-| Pennsylvania: Allegheny |  |  |  |  |  |  | 23769.0 |
-| Pennsylvania: Crawford |  |  |  |  |  |  | 24756.3 |
-| Pennsylvania: Mercer |  |  |  |  |  |  | 22309.5 |
+| Massachusetts: Essex |  |  |  |  |  |  | 28549.3 |
+| Massachusetts: Middlesex |  |  |  |  |  |  | 23568.2 |
+| New York: Chautauqua |  |  |  |  |  |  | 20376.2 |
+| New York: Erie |  |  |  |  |  |  | 25855.9 |
+| New York: Madison |  |  |  |  |  |  | 20807.4 |
+| New York: Oswego |  |  |  |  |  |  | 24293.9 |
+| Pennsylvania: Allegheny |  |  |  |  |  |  | 23937.8 |
+| Pennsylvania: Crawford |  |  |  |  |  |  | 24882.7 |
+| Pennsylvania: Mercer |  |  |  |  |  |  | 22432.0 |
 | Virginia: Loudoun |  |  |  |  |  |  | 19385.1 |
