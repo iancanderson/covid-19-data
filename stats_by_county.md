@@ -65,14 +65,14 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  | 226467 |
 | Massachusetts: Middlesex |  |  |  |  |  |  | 382477 |
-| New York: Chautauqua |  |  |  |  |  |  | 25979 |
-| New York: Erie |  |  |  |  |  |  | 239062 |
-| New York: Madison |  |  |  |  |  |  | 14820 |
-| New York: Oswego |  |  |  |  |  |  | 29793 |
-| Pennsylvania: Allegheny |  |  |  |  |  |  | 292367 |
-| Pennsylvania: Crawford |  |  |  |  |  |  | 21114 |
-| Pennsylvania: Mercer |  |  |  |  |  |  | 24615 |
-| Virginia: Loudoun |  |  |  |  |  |  | 81659 |
+| New York: Chautauqua |  |  |  |  |  |  | 25995 |
+| New York: Erie |  |  |  |  |  |  | 239193 |
+| New York: Madison |  |  |  |  |  |  | 14826 |
+| New York: Oswego |  |  |  |  |  |  | 29812 |
+| Pennsylvania: Allegheny |  |  |  |  |  |  | 294798 |
+| Pennsylvania: Crawford |  |  |  |  |  |  | 21215 |
+| Pennsylvania: Mercer |  |  |  |  |  |  | 24745 |
+| Virginia: Loudoun |  |  |  |  |  |  | 81818 |
 
 ## Total cases by day (per 100,000 population)
 
@@ -80,11 +80,11 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  | 28701.8 |
 | Massachusetts: Middlesex |  |  |  |  |  |  | 23731.3 |
-| New York: Chautauqua |  |  |  |  |  |  | 20471.5 |
-| New York: Erie |  |  |  |  |  |  | 26021.7 |
-| New York: Madison |  |  |  |  |  |  | 20890.6 |
-| New York: Oswego |  |  |  |  |  |  | 24398.7 |
-| Pennsylvania: Allegheny |  |  |  |  |  |  | 24042.4 |
-| Pennsylvania: Crawford |  |  |  |  |  |  | 24948.9 |
-| Pennsylvania: Mercer |  |  |  |  |  |  | 22495.1 |
-| Virginia: Loudoun |  |  |  |  |  |  | 19746.4 |
+| New York: Chautauqua |  |  |  |  |  |  | 20484.1 |
+| New York: Erie |  |  |  |  |  |  | 26036.0 |
+| New York: Madison |  |  |  |  |  |  | 20899.1 |
+| New York: Oswego |  |  |  |  |  |  | 24414.3 |
+| Pennsylvania: Allegheny |  |  |  |  |  |  | 24242.4 |
+| Pennsylvania: Crawford |  |  |  |  |  |  | 25068.2 |
+| Pennsylvania: Mercer |  |  |  |  |  |  | 22613.9 |
+| Virginia: Loudoun |  |  |  |  |  |  | 19784.8 |
