@@ -65,10 +65,10 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  | 227255 |
 | Massachusetts: Middlesex |  |  |  |  |  |  | 384211 |
-| New York: Chautauqua |  |  |  |  |  |  | 26106 |
-| New York: Erie |  |  |  |  |  |  | 240121 |
-| New York: Madison |  |  |  |  |  |  | 14876 |
-| New York: Oswego |  |  |  |  |  |  | 29907 |
+| New York: Chautauqua |  |  |  |  |  |  | 26139 |
+| New York: Erie |  |  |  |  |  |  | 240308 |
+| New York: Madison |  |  |  |  |  |  | 14886 |
+| New York: Oswego |  |  |  |  |  |  | 29922 |
 | Pennsylvania: Allegheny |  |  |  |  |  |  | 297003 |
 | Pennsylvania: Crawford |  |  |  |  |  |  | 21320 |
 | Pennsylvania: Mercer |  |  |  |  |  |  | 24898 |
@@ -80,10 +80,10 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  | 28801.7 |
 | Massachusetts: Middlesex |  |  |  |  |  |  | 23838.9 |
-| New York: Chautauqua |  |  |  |  |  |  | 20571.6 |
-| New York: Erie |  |  |  |  |  |  | 26137.0 |
-| New York: Madison |  |  |  |  |  |  | 20969.5 |
-| New York: Oswego |  |  |  |  |  |  | 24492.1 |
+| New York: Chautauqua |  |  |  |  |  |  | 20597.6 |
+| New York: Erie |  |  |  |  |  |  | 26157.3 |
+| New York: Madison |  |  |  |  |  |  | 20983.6 |
+| New York: Oswego |  |  |  |  |  |  | 24504.3 |
 | Pennsylvania: Allegheny |  |  |  |  |  |  | 24423.7 |
 | Pennsylvania: Crawford |  |  |  |  |  |  | 25192.3 |
 | Pennsylvania: Mercer |  |  |  |  |  |  | 22753.7 |
