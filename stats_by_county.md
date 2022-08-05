@@ -63,12 +63,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2022-07-29 | 2022-07-30 | 2022-07-31 | 2022-08-01 | 2022-08-02 | 2022-08-03 | 2022-08-04 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex |  |  |  |  |  |  | 229738 |
-| Massachusetts: Middlesex |  |  |  |  |  |  | 389041 |
-| New York: Chautauqua |  |  |  |  |  |  | 26367 |
-| New York: Erie |  |  |  |  |  |  | 242555 |
-| New York: Madison |  |  |  |  |  |  | 15012 |
-| New York: Oswego |  |  |  |  |  |  | 30202 |
+| Massachusetts: Essex |  |  |  |  |  |  | 230916 |
+| Massachusetts: Middlesex |  |  |  |  |  |  | 391272 |
+| New York: Chautauqua |  |  |  |  |  |  | 26387 |
+| New York: Erie |  |  |  |  |  |  | 242755 |
+| New York: Madison |  |  |  |  |  |  | 15027 |
+| New York: Oswego |  |  |  |  |  |  | 30230 |
 | Pennsylvania: Allegheny |  |  |  |  |  |  | 302293 |
 | Pennsylvania: Crawford |  |  |  |  |  |  | 21598 |
 | Pennsylvania: Mercer |  |  |  |  |  |  | 25312 |
@@ -78,12 +78,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2022-07-29 | 2022-07-30 | 2022-07-31 | 2022-08-01 | 2022-08-02 | 2022-08-03 | 2022-08-04 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex |  |  |  |  |  |  | 29116.4 |
-| Massachusetts: Middlesex |  |  |  |  |  |  | 24138.6 |
-| New York: Chautauqua |  |  |  |  |  |  | 20777.3 |
-| New York: Erie |  |  |  |  |  |  | 26401.9 |
-| New York: Madison |  |  |  |  |  |  | 21161.2 |
-| New York: Oswego |  |  |  |  |  |  | 24733.6 |
+| Massachusetts: Essex |  |  |  |  |  |  | 29265.7 |
+| Massachusetts: Middlesex |  |  |  |  |  |  | 24277.0 |
+| New York: Chautauqua |  |  |  |  |  |  | 20793.0 |
+| New York: Erie |  |  |  |  |  |  | 26423.7 |
+| New York: Madison |  |  |  |  |  |  | 21182.4 |
+| New York: Oswego |  |  |  |  |  |  | 24756.6 |
 | Pennsylvania: Allegheny |  |  |  |  |  |  | 24858.7 |
 | Pennsylvania: Crawford |  |  |  |  |  |  | 25520.8 |
 | Pennsylvania: Mercer |  |  |  |  |  |  | 23132.0 |
