@@ -65,14 +65,14 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  | 240895 |
 | Massachusetts: Middlesex |  |  |  |  |  |  | 409142 |
-| New York: Chautauqua |  |  |  |  |  |  | 27865 |
-| New York: Erie |  |  |  |  |  |  | 254200 |
-| New York: Madison |  |  |  |  |  |  | 15917 |
-| New York: Oswego |  |  |  |  |  |  | 32514 |
+| New York: Chautauqua |  |  |  |  |  |  | 27900 |
+| New York: Erie |  |  |  |  |  |  | 254407 |
+| New York: Madison |  |  |  |  |  |  | 15932 |
+| New York: Oswego |  |  |  |  |  |  | 32546 |
 | Pennsylvania: Allegheny |  |  |  |  |  |  | 320559 |
 | Pennsylvania: Crawford |  |  |  |  |  |  | 23233 |
 | Pennsylvania: Mercer |  |  |  |  |  |  | 26726 |
-| Virginia: Loudoun |  |  |  |  |  |  | 89310 |
+| Virginia: Loudoun |  |  |  |  |  |  | 89355 |
 
 ## Total cases by day (per 100,000 population)
 
@@ -80,11 +80,11 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  | 30530.4 |
 | Massachusetts: Middlesex |  |  |  |  |  |  | 25385.8 |
-| New York: Chautauqua |  |  |  |  |  |  | 21957.7 |
-| New York: Erie |  |  |  |  |  |  | 27669.5 |
-| New York: Madison |  |  |  |  |  |  | 22437.0 |
-| New York: Oswego |  |  |  |  |  |  | 26627.0 |
+| New York: Chautauqua |  |  |  |  |  |  | 21985.3 |
+| New York: Erie |  |  |  |  |  |  | 27692.0 |
+| New York: Madison |  |  |  |  |  |  | 22458.1 |
+| New York: Oswego |  |  |  |  |  |  | 26653.2 |
 | Pennsylvania: Allegheny |  |  |  |  |  |  | 26360.8 |
 | Pennsylvania: Crawford |  |  |  |  |  |  | 27452.8 |
 | Pennsylvania: Mercer |  |  |  |  |  |  | 24424.3 |
-| Virginia: Loudoun |  |  |  |  |  |  | 21596.5 |
+| Virginia: Loudoun |  |  |  |  |  |  | 21607.4 |
