@@ -63,28 +63,28 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2022-10-24 | 2022-10-25 | 2022-10-26 | 2022-10-27 | 2022-10-28 | 2022-10-29 | 2022-10-30 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex |  |  |  |  |  |  | 242495 |
-| Massachusetts: Middlesex |  |  |  |  |  |  | 412305 |
-| New York: Chautauqua |  |  |  |  |  |  | 28180 |
-| New York: Erie |  |  |  |  |  |  | 256797 |
-| New York: Madison |  |  |  |  |  |  | 16086 |
-| New York: Oswego |  |  |  |  |  |  | 32978 |
-| Pennsylvania: Allegheny |  |  |  |  |  |  | 322504 |
-| Pennsylvania: Crawford |  |  |  |  |  |  | 23486 |
-| Pennsylvania: Mercer |  |  |  |  |  |  | 26882 |
-| Virginia: Loudoun |  |  |  |  |  |  | 89956 |
+| Massachusetts: Essex |  |  |  |  |  |  |  |
+| Massachusetts: Middlesex |  |  |  |  |  |  |  |
+| New York: Chautauqua |  |  |  |  |  |  |  |
+| New York: Erie |  |  |  |  |  |  |  |
+| New York: Madison |  |  |  |  |  |  |  |
+| New York: Oswego |  |  |  |  |  |  |  |
+| Pennsylvania: Allegheny |  |  |  |  |  |  |  |
+| Pennsylvania: Crawford |  |  |  |  |  |  |  |
+| Pennsylvania: Mercer |  |  |  |  |  |  |  |
+| Virginia: Loudoun |  |  |  |  |  |  |  |
 
 ## Total cases by day (per 100,000 population)
 
 | County | 2022-10-24 | 2022-10-25 | 2022-10-26 | 2022-10-27 | 2022-10-28 | 2022-10-29 | 2022-10-30 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex |  |  |  |  |  |  | 30733.1 |
-| Massachusetts: Middlesex |  |  |  |  |  |  | 25582.0 |
-| New York: Chautauqua |  |  |  |  |  |  | 22205.9 |
-| New York: Erie |  |  |  |  |  |  | 27952.2 |
-| New York: Madison |  |  |  |  |  |  | 22675.2 |
-| New York: Oswego |  |  |  |  |  |  | 27007.0 |
-| Pennsylvania: Allegheny |  |  |  |  |  |  | 26520.7 |
-| Pennsylvania: Crawford |  |  |  |  |  |  | 27751.7 |
-| Pennsylvania: Mercer |  |  |  |  |  |  | 24566.8 |
-| Virginia: Loudoun |  |  |  |  |  |  | 21752.7 |
+| Massachusetts: Essex |  |  |  |  |  |  |  |
+| Massachusetts: Middlesex |  |  |  |  |  |  |  |
+| New York: Chautauqua |  |  |  |  |  |  |  |
+| New York: Erie |  |  |  |  |  |  |  |
+| New York: Madison |  |  |  |  |  |  |  |
+| New York: Oswego |  |  |  |  |  |  |  |
+| Pennsylvania: Allegheny |  |  |  |  |  |  |  |
+| Pennsylvania: Crawford |  |  |  |  |  |  |  |
+| Pennsylvania: Mercer |  |  |  |  |  |  |  |
+| Virginia: Loudoun |  |  |  |  |  |  |  |
