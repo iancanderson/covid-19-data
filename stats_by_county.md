@@ -65,13 +65,13 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  | 242495 |
 | Massachusetts: Middlesex |  |  |  |  |  |  | 412305 |
-| New York: Chautauqua |  |  |  |  |  |  | 28209 |
-| New York: Erie |  |  |  |  |  |  | 256929 |
-| New York: Madison |  |  |  |  |  |  | 16098 |
-| New York: Oswego |  |  |  |  |  |  | 33009 |
-| Pennsylvania: Allegheny |  |  |  |  |  |  | 322504 |
-| Pennsylvania: Crawford |  |  |  |  |  |  | 23486 |
-| Pennsylvania: Mercer |  |  |  |  |  |  | 26882 |
+| New York: Chautauqua |  |  |  |  |  |  | 28220 |
+| New York: Erie |  |  |  |  |  |  | 257117 |
+| New York: Madison |  |  |  |  |  |  | 16112 |
+| New York: Oswego |  |  |  |  |  |  | 33028 |
+| Pennsylvania: Allegheny |  |  |  |  |  |  | 323701 |
+| Pennsylvania: Crawford |  |  |  |  |  |  | 23603 |
+| Pennsylvania: Mercer |  |  |  |  |  |  | 27008 |
 | Virginia: Loudoun |  |  |  |  |  |  | 90156 |
 
 ## Total cases by day (per 100,000 population)
@@ -80,11 +80,11 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Massachusetts: Essex |  |  |  |  |  |  | 30733.1 |
 | Massachusetts: Middlesex |  |  |  |  |  |  | 25582.0 |
-| New York: Chautauqua |  |  |  |  |  |  | 22228.8 |
-| New York: Erie |  |  |  |  |  |  | 27966.5 |
-| New York: Madison |  |  |  |  |  |  | 22692.1 |
-| New York: Oswego |  |  |  |  |  |  | 27032.4 |
-| Pennsylvania: Allegheny |  |  |  |  |  |  | 26520.7 |
-| Pennsylvania: Crawford |  |  |  |  |  |  | 27751.7 |
-| Pennsylvania: Mercer |  |  |  |  |  |  | 24566.8 |
+| New York: Chautauqua |  |  |  |  |  |  | 22237.5 |
+| New York: Erie |  |  |  |  |  |  | 27987.0 |
+| New York: Madison |  |  |  |  |  |  | 22711.8 |
+| New York: Oswego |  |  |  |  |  |  | 27048.0 |
+| Pennsylvania: Allegheny |  |  |  |  |  |  | 26619.2 |
+| Pennsylvania: Crawford |  |  |  |  |  |  | 27890.0 |
+| Pennsylvania: Mercer |  |  |  |  |  |  | 24682.0 |
 | Virginia: Loudoun |  |  |  |  |  |  | 21801.1 |
