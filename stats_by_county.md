@@ -63,12 +63,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2022-11-04 | 2022-11-05 | 2022-11-06 | 2022-11-07 | 2022-11-08 | 2022-11-09 | 2022-11-10 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex |  |  |  |  |  |  | 243174 |
-| Massachusetts: Middlesex |  |  |  |  |  |  | 413541 |
-| New York: Chautauqua |  |  |  |  |  |  | 28298 |
-| New York: Erie |  |  |  |  |  |  | 258047 |
-| New York: Madison |  |  |  |  |  |  | 16164 |
-| New York: Oswego |  |  |  |  |  |  | 33123 |
+| Massachusetts: Essex |  |  |  |  |  |  | 243825 |
+| Massachusetts: Middlesex |  |  |  |  |  |  | 414797 |
+| New York: Chautauqua |  |  |  |  |  |  | 28310 |
+| New York: Erie |  |  |  |  |  |  | 258166 |
+| New York: Madison |  |  |  |  |  |  | 16171 |
+| New York: Oswego |  |  |  |  |  |  | 33132 |
 | Pennsylvania: Allegheny |  |  |  |  |  |  | 324660 |
 | Pennsylvania: Crawford |  |  |  |  |  |  | 23680 |
 | Pennsylvania: Mercer |  |  |  |  |  |  | 27103 |
@@ -78,12 +78,12 @@ _The current day's numbers may not be updated yet. Take the last columns with a 
 
 | County | 2022-11-04 | 2022-11-05 | 2022-11-06 | 2022-11-07 | 2022-11-08 | 2022-11-09 | 2022-11-10 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Massachusetts: Essex |  |  |  |  |  |  | 30819.2 |
-| Massachusetts: Middlesex |  |  |  |  |  |  | 25658.7 |
-| New York: Chautauqua |  |  |  |  |  |  | 22298.9 |
-| New York: Erie |  |  |  |  |  |  | 28088.2 |
-| New York: Madison |  |  |  |  |  |  | 22785.1 |
-| New York: Oswego |  |  |  |  |  |  | 27125.8 |
+| Massachusetts: Essex |  |  |  |  |  |  | 30901.7 |
+| Massachusetts: Middlesex |  |  |  |  |  |  | 25736.6 |
+| New York: Chautauqua |  |  |  |  |  |  | 22308.4 |
+| New York: Erie |  |  |  |  |  |  | 28101.2 |
+| New York: Madison |  |  |  |  |  |  | 22795.0 |
+| New York: Oswego |  |  |  |  |  |  | 27133.1 |
 | Pennsylvania: Allegheny |  |  |  |  |  |  | 26698.0 |
 | Pennsylvania: Crawford |  |  |  |  |  |  | 27981.0 |
 | Pennsylvania: Mercer |  |  |  |  |  |  | 24768.8 |
